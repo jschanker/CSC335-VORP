@@ -1,0 +1,21 @@
+body {
+	font-family:sans-serif;
+}
+
+.tableContainer {
+	display:table;
+	border:1px solid black;
+}
+
+.tableRow {
+	display:table-row;
+}
+
+.tableCell {
+	display: table-cell;
+	padding:5px;
+}
+
+#buttonCell {
+	vertical-align: middle;
+}
