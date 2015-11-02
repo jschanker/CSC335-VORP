@@ -1,8 +1,19 @@
 var jsdom = require("jsdom");
 
+//Attaches and returns a reference to jQuery
 function jsdomjQueryConnector(htmlURL, callback) {
+  //Set the scripts to include jQuery
   var jsdomScripts = ["http://code.jquery.com/jquery.js"];
-  jsdom.env(htmlURL, jsdomScripts, callback);
+  jsdom.env(htmlURL, jsdomScripts, function (err, window) {
+    //Callback only iwth the error if there is an error
+    if (err) {
+      callback(err);
+    }
+    //Set jQuery variable
+    var jQuery = window.$;
+    //Callback with jQuery
+    callback(err, window, jQuery);
+  });
 }
 
 //The code below will be run
@@ -15,15 +26,13 @@ var rowIndex = {
   vorp: 16
 }
 var url = "http://www.baseballprospectus.com/sortable/index.php?cid=1819072";
-jsdomjQueryConnector(url, function (err, window, callback) {
+jsdomjQueryConnector(url, function (err, window, jQuery) {
   var errMessage = "Error encountered when trying to get rows.";
   var rowJQuerySelector = "tr.TTdata, tr.TTdata_ltgrey";
   if (err) {
    console.log("Err: ", errMessage, " ... exiting");
    return;
   }
-  //Set jQuery variable alias
-  var jQuery = window.$;
   //Save all rows to an array using jQuery
   var rows = jQuery(rowJQuerySelector).toArray();
   //Create an object of player objects
