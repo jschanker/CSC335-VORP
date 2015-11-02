@@ -28,6 +28,7 @@ var rowIndex = {
 var url = "http://www.baseballprospectus.com/sortable/index.php?cid=1819072";
 jsdomjQueryConnector(url, function (err, window, jQuery) {
   var errMessage = "Error encountered when trying to get rows.";
+  //Select all table rows with the "TTdata" or "TTdata_ltgrey" classes
   var rowJQuerySelector = "tr.TTdata, tr.TTdata_ltgrey";
   if (err) {
    console.log("Err: ", errMessage, " ... exiting");
@@ -39,12 +40,12 @@ jsdomjQueryConnector(url, function (err, window, jQuery) {
   var playersObject = {};
   //Loop through each row and create player object
   rows.forEach(function(current){
-    //Attach a function to each row to easily retireve cell values
+    //Attach a function to each row to easily retireve cell text
     current.getCellText = function(index) {
       //Returns the text at the cell specified by the index
       return jQuery(current).find("td:eq(" + index + ")").text();
     };
-    //Get the player's name which is the 2nd cell
+    //Get the player's name
     var name = current.getCellText(rowIndex.name);
     //Create the new player object
     playersObject[name] = {
