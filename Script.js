@@ -16,6 +16,30 @@ function jsdomjQueryConnector(htmlURL, callback) {
   });
 }
 
+function parseTableRowsToPlayersObject(rowArray, jQuery, callback) {
+  var playersObject = {};
+  rowArray.forEach(function(currentRow){
+    //Attach a function to each row to easily retrieve cell text
+    currentRow.getCell = function(index) {
+      //Returns the text at the cell specified by the index
+      return jQuery(currentRow).find("td:eq(" + index + ")");
+    };
+    //Get the player's name cell
+    var nameCell = currentRow.getCell(rowIndex.name);
+    //Get the player's personal url
+    var playerURL = nameCell.find("a").prop("href");
+    //Get the player's name
+    var name = nameCell.text();
+    //Create the new player object
+    playersObject[name] = {
+      url: playerURL,
+      position: currentRow.getCell(rowIndex.position).text(),
+      vorp: currentRow.getCell(rowIndex.vorp).text()
+    };
+  });
+  callback(null, playersObject);
+}
+
 //The code below will be run
 
 var columns = 19;
@@ -28,36 +52,16 @@ var rowIndex = {
 var url = "http://www.baseballprospectus.com/sortable/index.php?cid=1819072";
 jsdomjQueryConnector(url, function (err, window, $) {
   var errMessage = "Error encountered when trying to get page html.";
-  //Select all table rows with the "TTdata" or "TTdata_ltgrey" classes
-  var rowJQuerySelector = "tr.TTdata, tr.TTdata_ltgrey";
   if (err) {
    console.log("Err: ", errMessage, " ... exiting");
    return;
   }
-  //Save all rows to an array using $
+  //Select all table rows with the "TTdata" or "TTdata_ltgrey" classes
+  var rowJQuerySelector = "tr.TTdata, tr.TTdata_ltgrey";
+  //Save all rows to an array using jQuery
   var rows = $(rowJQuerySelector).toArray();
-  //Create an object of player objects
-  var playersObject = {};
-  //Loop through each row and create player object
-  rows.forEach(function(current){
-    //Attach a function to each row to easily retireve cell text
-    current.getCell = function(index) {
-      //Returns the text at the cell specified by the index
-      return $(current).find("td:eq(" + index + ")");
-    };
-    //Get the player's name cell
-    var nameCell = current.getCell(rowIndex.name);
-    //Get the player's personal url
-    var playerURL = nameCell.find("a").prop("href");
-    //Get the player's name
-    var name = nameCell.text();
-    //Create the new player object
-    playersObject[name] = {
-      url: playerURL,
-      position: current.getCell(rowIndex.position).text(),
-      vorp: current.getCell(rowIndex.vorp).text()
-    };
+  parseTableRowsToPlayersObject(rows, $, function(err, players) {
+    //Log all players
+    console.log(players);
   });
-  //Log all players
-  console.log(playersObject);
 });
