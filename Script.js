@@ -2,18 +2,21 @@ var cheerio = require("cheerio");
 var async = require("async");
 var request = require("request");
 
+//Global variable denoting the maximum concurrent connections to a website
+var maximumConnections = 50;
+
 //Attaches and returns a reference jQuery as well as html
 function jQueryConnector(url, callback) {
   //console.log(url)
   request("http://www.baseballprospectus.com" + url, function (err, response, html) {
-    //Callback only iwth the error if there is an error
+    //Callback only with the error if there is an error
     if (err) {
-      callback(err);
+      return callback(err);
     }
     //Create jQuery from cheerio
     var jQuery = cheerio.load(html);
     //Callback with jQuery
-    callback(err, jQuery);
+    return callback(err, jQuery);
   });
 }
 
@@ -38,7 +41,7 @@ function parseTableRowsToPlayersObject(rowArray, jQuery, callback) {
       vorp: currentRow.getCell(rowIndex.vorp).text()
     };
   });
-  callback(null, playersObject);
+  return callback(null, playersObject);
 }
 
 function getPlayerSalary(playerURL, callback) {
@@ -61,7 +64,7 @@ var rowIndex = {
   name: 1,
   position: 3,
   vorp: 16
-}
+};
 var url = "/sortable/index.php?cid=1819072";
 jQueryConnector(url, function (err, $) {
   var errMessage = "Error encountered when trying to get page html.";
@@ -77,13 +80,17 @@ jQueryConnector(url, function (err, $) {
     //Log all players
     //console.log(players);
     //For each player save salary
-    async.each(players, function(player,done) {
+    async.eachLimit(players, maximumConnections, function(player,done) {
       getPlayerSalary(player.url, function(err, salary) {
+        if (err) {
+          console.log("Error getting player " + player.name + " salary using " + player.url);
+          console.log("Error: " + err);
+        }
         player.salary = salary;
         done();
       });
     }, function(err) {
-      console.log(players);
+      //console.log(players);
     });
   });
 });
