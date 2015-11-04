@@ -6,6 +6,10 @@ var request = require("request");
 var maximumConnections = 50;
 //Base URL
 var baseURL = "http://www.baseballprospectus.com";
+//Replace Constant
+var replaceConstant = "#replaceMe";
+//Salary URL
+var salaryURL = "http://sports.newsday.com/long-island/data/baseball/mlb-salaries-2015/#s:player=" + replaceConstant + "|o:c=salary;d=true;|";
 
 //Attaches and returns a reference jQuery as well as html
 function jQueryConnector(url, callback) {
@@ -24,9 +28,9 @@ function jQueryConnector(url, callback) {
 
 function parseTableRowsToPlayersObject(rowArray, jQuery, callback) {
   var playersObject = {};
-  rowArray.forEach(function(currentRow){
+  rowArray.forEach(function (currentRow) {
     //Attach a function to each row to easily retrieve cell text
-    currentRow.getCell = function(index) {
+    currentRow.getCell = function (index) {
       //Returns the text at the cell specified by the index
       return jQuery(currentRow).find("td").eq(index);
     };
@@ -47,20 +51,23 @@ function parseTableRowsToPlayersObject(rowArray, jQuery, callback) {
 }
 
 function getPlayerSalary(playerURL, callback) {
-  jQueryConnector(playerURL, function(err, $) {
+  jQueryConnector(playerURL, function (err, $) {
     //If there is an error, call the callback with the error
     if (err) {
       return callback(err);
     }
     var salary = $("#cotsyear_totals").find("td").eq(2).text();
     //console.log("Salary: " + salary);
-    return callback(null,salary);
+    return callback(null, salary);
   })
 }
 
-//The code below will be run
 
-var columns = 19;
+//
+// The code below will be run...
+//
+
+
 // This variable should be automatically built
 var rowIndex = {
   name: 1,
@@ -71,19 +78,19 @@ var url = "/sortable/index.php?cid=1819072";
 jQueryConnector(url, function (err, $) {
   var errMessage = "Error encountered when trying to get page html.";
   if (err) {
-   console.log("Err: ", errMessage, " ... exiting");
-   return;
+    console.log("Err: ", errMessage, " ... exiting");
+    return;
   }
   //Select all table rows with the "TTdata" or "TTdata_ltgrey" classes
   var rowJQuerySelector = "tr.TTdata, tr.TTdata_ltgrey";
   //Save all rows to an array using jQuery
   var rows = $(rowJQuerySelector).toArray();
-  parseTableRowsToPlayersObject(rows, $, function(err, players) {
+  parseTableRowsToPlayersObject(rows, $, function (err, players) {
     //Log all players
     //console.log(players);
     //For each player save salary
-    async.eachLimit(players, maximumConnections, function(player,done) {
-      getPlayerSalary(player.url, function(err, salary) {
+    async.eachLimit(players, maximumConnections, function (player, done) {
+      getPlayerSalary(player.url, function (err, salary) {
         if (err) {
           console.log("Error getting player " + player.name + " salary using " + player.url);
           console.log("Error: " + err);
@@ -91,8 +98,6 @@ jQueryConnector(url, function (err, $) {
         player.salary = salary;
         done();
       });
-    }, function(err) {
-      //console.log(players);
     });
   });
 });
