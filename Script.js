@@ -1,18 +1,19 @@
-var jsdom = require("jsdom");
+var cheerio = require("cheerio");
+var async = require("async");
+var request = require("request");
 
-//Attaches and returns a reference to jQuery
-function jsdomjQueryConnector(htmlURL, callback) {
-  //Set the scripts to include jQuery
-  var jsdomScripts = ["http://code.jquery.com/jquery.js"];
-  jsdom.env(htmlURL, jsdomScripts, function (err, window) {
+//Attaches and returns a reference jQuery as well as html
+function jQueryConnector(url, callback) {
+  //console.log(url)
+  request("http://www.baseballprospectus.com" + url, function (err, response, html) {
     //Callback only iwth the error if there is an error
     if (err) {
       callback(err);
     }
-    //Set jQuery variable
-    var jQuery = window.$;
+    //Create jQuery from cheerio
+    var jQuery = cheerio.load(html);
     //Callback with jQuery
-    callback(err, window, jQuery);
+    callback(err, jQuery);
   });
 }
 
@@ -22,12 +23,12 @@ function parseTableRowsToPlayersObject(rowArray, jQuery, callback) {
     //Attach a function to each row to easily retrieve cell text
     currentRow.getCell = function(index) {
       //Returns the text at the cell specified by the index
-      return jQuery(currentRow).find("td:eq(" + index + ")");
+      return jQuery(currentRow).find("td").eq(index);
     };
     //Get the player's name cell
     var nameCell = currentRow.getCell(rowIndex.name);
     //Get the player's personal url
-    var playerURL = nameCell.find("a").prop("href");
+    var playerURL = nameCell.find("a").attr("href");
     //Get the player's name
     var name = nameCell.text();
     //Create the new player object
@@ -40,6 +41,18 @@ function parseTableRowsToPlayersObject(rowArray, jQuery, callback) {
   callback(null, playersObject);
 }
 
+function getPlayerSalary(playerURL, callback) {
+  jQueryConnector(playerURL, function(err, $) {
+    //If there is an error, call the callback with the error
+    if (err) {
+      return callback(err);
+    }
+    var salary = $("#cotsyear_totals").find("td").eq(2).text();
+    //console.log("Salary: " + salary);
+    return callback(null,salary);
+  })
+}
+
 //The code below will be run
 
 var columns = 19;
@@ -49,8 +62,8 @@ var rowIndex = {
   position: 3,
   vorp: 16
 }
-var url = "http://www.baseballprospectus.com/sortable/index.php?cid=1819072";
-jsdomjQueryConnector(url, function (err, window, $) {
+var url = "/sortable/index.php?cid=1819072";
+jQueryConnector(url, function (err, $) {
   var errMessage = "Error encountered when trying to get page html.";
   if (err) {
    console.log("Err: ", errMessage, " ... exiting");
@@ -62,6 +75,15 @@ jsdomjQueryConnector(url, function (err, window, $) {
   var rows = $(rowJQuerySelector).toArray();
   parseTableRowsToPlayersObject(rows, $, function(err, players) {
     //Log all players
-    console.log(players);
+    //console.log(players);
+    //For each player save salary
+    async.each(players, function(player,done) {
+      getPlayerSalary(player.url, function(err, salary) {
+        player.salary = salary;
+        done();
+      });
+    }, function(err) {
+      console.log(players);
+    });
   });
 });
