@@ -26,7 +26,7 @@ var rowIndex = {
   vorp: 16
 }
 var url = "http://www.baseballprospectus.com/sortable/index.php?cid=1819072";
-jsdomjQueryConnector(url, function (err, window, jQuery) {
+jsdomjQueryConnector(url, function (err, window, $) {
   var errMessage = "Error encountered when trying to get rows.";
   //Select all table rows with the "TTdata" or "TTdata_ltgrey" classes
   var rowJQuerySelector = "tr.TTdata, tr.TTdata_ltgrey";
@@ -34,8 +34,8 @@ jsdomjQueryConnector(url, function (err, window, jQuery) {
    console.log("Err: ", errMessage, " ... exiting");
    return;
   }
-  //Save all rows to an array using jQuery
-  var rows = jQuery(rowJQuerySelector).toArray();
+  //Save all rows to an array using $
+  var rows = $(rowJQuerySelector).toArray();
   //Create an object of player objects
   var playersObject = {};
   //Loop through each row and create player object
@@ -43,7 +43,7 @@ jsdomjQueryConnector(url, function (err, window, jQuery) {
     //Attach a function to each row to easily retireve cell text
     current.getCellText = function(index) {
       //Returns the text at the cell specified by the index
-      return jQuery(current).find("td:eq(" + index + ")").text();
+      return $(current).find("td:eq(" + index + ")").text();
     };
     //Get the player's name
     var name = current.getCellText(rowIndex.name);
