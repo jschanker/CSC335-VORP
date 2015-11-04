@@ -18,7 +18,7 @@ computeButton.addEventListener("click", function() {
         };
 
         test_alert_string += (
-            "Player = " + specific_player[1] + '    ' +
+            specific_player[1] + ':    ' +
             "VORP = " + specific_player[16] + '    ' +
             "Position = " + specific_player[3] + '\n'
         );
