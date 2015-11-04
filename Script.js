@@ -4,11 +4,13 @@ var request = require("request");
 
 //Global variable denoting the maximum concurrent connections to a website
 var maximumConnections = 50;
+//Base URL
+var baseURL = "http://www.baseballprospectus.com";
 
 //Attaches and returns a reference jQuery as well as html
 function jQueryConnector(url, callback) {
   //console.log(url)
-  request("http://www.baseballprospectus.com" + url, function (err, response, html) {
+  request(baseURL + url, function (err, response, html) {
     //Callback only with the error if there is an error
     if (err) {
       return callback(err);
