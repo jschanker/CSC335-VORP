@@ -5,7 +5,11 @@ body {
 .tableContainer {
 	display:table;
 	border:1px solid black;
+    position: relative;
+    margin:0 auto;
+    line-height: 1.4em;
 }
+
 
 .tableRow {
 	display:table-row;
