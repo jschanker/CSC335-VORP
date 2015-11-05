@@ -7,9 +7,5 @@ Here are the current problems we need to figure out (in no particular order):
     It'll be lots of fun to solve this dynamic programming problem. Here's a powerpoint regarding the problem that may/may not
     help. https://drive.google.com/a/lions.molloy.edu/file/d/0B5DGvLP6lAUtVWNJeC1aYXhuUDg/view?usp=sharing
 
-In addition, here are some programs/websites that may be of use:
-
-Jsfiddle.net- lets you work on JavaScript/HTML/CSS simultaneously while showing you the output.
-repl.it- purely a JavaScript console/compiler. Certain features (such as alert & prompt) will not work in it.
-Brackets- a piece of software that lets you create a website JavaScript/HTML/CSS offline. Also allows you to test it in Google
-    Chrome (sadly only works with this browser).
+Here is a pastebin that contains the information from both websites. http://pastebin.com/fj4XBqPr
+Hint: Copying directly from the Raw Paste Data at the bottom is easier.
