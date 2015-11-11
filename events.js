@@ -5,25 +5,25 @@ var computeButton = document.getElementById("computeButton");
 
 computeButton.addEventListener("click", function() {
     var data = (document.getElementById("player-data").value);
-    var dataPool = data.split('=======================================================================================================================================');
+    var dataPool = data.split(new RegExp(/(=+)/));
     var players = dataPool[0].split('\n');
 
-    var salaries = dataPool[1];
+    var salaries = dataPool[2];
 
     var player_object = {};
     var test_alert_string = "";
 
-
     for(var i = 0; i < players.length;i++){
         var specific_player = players[i].split('\t');
         var specific_salary = "";
-         var salary_playerIndex = salaries.indexOf(specific_player[1]);
+        var salary_playerIndex = salaries.indexOf(specific_player[1]);
         if (salary_playerIndex === -1){
             specific_salary = "No Salary Listed";
         }
         else {
             var indexOf$ = salaries.indexOf("$", salary_playerIndex);
             specific_salary = salaries.substring(indexOf$ + 1, salaries.indexOf('\t', indexOf$));
+            specific_salary = "$" + specific_salary
         }
 
 
@@ -41,6 +41,7 @@ computeButton.addEventListener("click", function() {
         );
     }
 
+    console.log(test_alert_string);
     alert(test_alert_string);
 
 
