@@ -20,6 +20,7 @@ PlayerListModel.getAllPlayers(function (err, players) {
       done();
     });
   }, function (err) {
+    //This is run when all the salaries are retrieved or there is an error
     console.log(players);
   });
 });
