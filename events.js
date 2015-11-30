@@ -7,7 +7,7 @@ computeButton.addEventListener("click", function() {
 });
 
 //Seperate lines into own array
-lineArr=rawData.split("\n");//Each player & their info==1 value in array
+lineArr=rawData.split(/\r\n|\r|\n/);//Each player & their info==1 value in array
 players={};
 playerName=null;
 
