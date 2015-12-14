@@ -1,0 +1,11 @@
+{
+  "name": "VORP",
+  "version": "0.0.0",
+  "description": "Homework",
+  "author": "Steven and Santiago",
+  "dependencies": {
+    "cheerio": "*",
+    "async": "*",
+    "request": "*"
+  }
+}
