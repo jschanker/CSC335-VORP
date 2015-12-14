@@ -15,8 +15,13 @@ PlayerListModel.getAllPlayers(function (err, players) {
         console.log("Error getting player " + player.name + " salary");
         console.log("Error: " + err);
       }
-      //Set the player salary
-      player.salary = salary;
+      //If the player salary is a truthy value, set the player salary
+      if (salary) {
+        player.salary = salary;
+      } else {
+        //Otherwise, remove the player from the list
+        delete players[key];
+      }
       done();
     });
   }, function (err) {
