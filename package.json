@@ -4,6 +4,8 @@
   "description": "Homework",
   "author": "Steven and Santiago",
   "dependencies": {
-    "jsdom": "*"
+    "cheerio": "*",
+    "async": "*",
+    "request": "*"
   }
 }
