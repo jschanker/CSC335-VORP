@@ -8,6 +8,7 @@
     "async": "*",
     "request": "*",
     "express": "*",
-    "jade": "*"
+    "jade": "*",
+    "underscore": "*"
   }
 }
