@@ -7,6 +7,7 @@ var PlayerListModel = require('./models/playerList.model.js');
 var express = require('express');
 var app = express();
 var algorithm = require("./algorithm.js");
+var _ = require("underscore");
 
 //Globals
 var port = 3000;
@@ -37,12 +38,21 @@ app.get("/", function (req, res) {
     }, function (err) {
       //This is run when all the salaries are retrieved or there is an error
       //console.log(players);
+      var sortedPlayers = {};
+      _.each(players,function(value,key){
+        var position = value.position;
+        if(!(position in sortedPlayers)) {
+          sortedPlayers[position] = {};
+        }
+        sortedPlayers[position][key]=value;
+      });
+      console.log(sortedPlayers);
       var budget = 3000000;
-      var answer = algorithm.maxVORP(players,budget,[],{});
-      console.log("Answer",answer);
+      //var answer = algorithm.maxVORP(players,budget,[],{});
+      //console.log("Answer",answer);
       var renderData = {
         "team": players,
-        "maxVorp": answer
+        "maxVorp": sortedPlayers
       };
       return res.render("index", renderData);
     });
