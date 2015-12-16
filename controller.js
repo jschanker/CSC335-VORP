@@ -37,7 +37,6 @@ app.get("/", function (req, res) {
       });
     }, function (err) {
       //This is run when all the salaries are retrieved or there is an error
-      //console.log(players);
       var sortedPlayers = {};
       _.each(players,function(value,key){
         var position = value.position;
@@ -46,13 +45,11 @@ app.get("/", function (req, res) {
         }
         sortedPlayers[position][key]=value;
       });
-      console.log(sortedPlayers);
       var budget = 3000000;
-      //var answer = algorithm.maxVORP(players,budget,[],{});
-      //console.log("Answer",answer);
+      var answer = algorithm.maxVORP(sortedPlayers,budget);
       var renderData = {
         "team": players,
-        "maxVorp": sortedPlayers
+        "maxVorp": answer
       };
       return res.render("index", renderData);
     });

@@ -3,22 +3,23 @@ var _ = require("underscore");
 
 var Process = module.exports = {};
 
-Process.maxVORP = function (players, budget, positionsFilled) {
+Process.maxVORP = function (positions, budget) {
   var vorp = 0;
-  if (positionsFilled.length < 9)
-    for (playerName in players) {
-      var currentPlayer = players[playerName];
-      if (!(currentPlayer.position in positionsFilled) && (currentPlayer.salary <= budget)) {
+  for (currentPosition in positions) {
+    var currentPlayerList = positions[currentPosition];
+    for (playerName in currentPlayerList) {
+      var currentPlayer = currentPlayerList[playerName];
+      var currentSalary = parseInt(currentPlayer.salary);
+      if (currentSalary <= budget) {
         var newBudget = budget - currentPlayer.salary;
-        var newPositionsFilled = _.map(positionsFilled, _.clone);
-        newPositionsFilled.push(currentPlayer.position);
-        var subList = _.clone(players);
-        delete subList[playerName];
+        var subListOfPositions = _.clone(positions);
+        delete subListOfPositions[currentPosition];
 
-        var newVorp = parseFloat(currentPlayer.vorp) + Process.maxVORP(subList, newBudget, newPositionsFilled);
-        vorp = Math.max(vorp, newVorp);
+        var newVorp = parseFloat(currentPlayer.vorp) + Process.maxVORP(subListOfPositions, newBudget);
+        return vorp = Math.max(vorp, newVorp);
       }
     }
+  }
   //In the case of an empty list or expensive players
   return vorp;
 };
