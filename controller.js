@@ -6,6 +6,7 @@ var SalaryModel = require('./models/playerSalary.model.js');
 var PlayerListModel = require('./models/playerList.model.js');
 var express = require('express');
 var app = express();
+var algorithm = require("./algorithm.js");
 
 //Globals
 var port = 3000;
@@ -35,10 +36,15 @@ app.get("/", function (req, res) {
       });
     }, function (err) {
       //This is run when all the salaries are retrieved or there is an error
-      console.log(players);
-      return res.render("index", {
-        "team": players
-      });
+      //console.log(players);
+      var budget = 3000000;
+      var answer = algorithm.maxVORP(players,budget,[],{});
+      console.log("Answer",answer);
+      var renderData = {
+        "team": players,
+        "maxVorp": answer
+      };
+      return res.render("index", renderData);
     });
   });
 });
