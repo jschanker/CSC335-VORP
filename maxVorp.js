@@ -1,49 +1,41 @@
 
     
 
-var maxVorp = function(positionObj,budget,vorpInArr){
+var maxVorp = function(positionObj,budget){
     
-    //base case
-    if(Object.keys(positionObj).length === 0){
+    var posObj = positionObj;
+    
+    if(Object.keys(posObj).length === 0){
         return [];
     }
     else{
-        var maxVorpSoFar = -Infinity;
-        var maxVorpTeamArr;
-        //
-        for(var position in positionObj){
+        var arrayOfPositions = Object.keys(posObj);
+        var position = Object.keys(posObj).length-1;
+        
+        
+        for(var player in posObj[arrayOfPositions[position]]){
             
-            for(var player in positionObj[position]){
-                //console.log(positionObj[position][player].salary);
+            //get player vorp and salary
+            var playerVorp = posObj[arrayOfPositions[position]][player].vorp;
+            var playerSalary = posObj[arrayOfPositions[position]][player].salary
+            
+            
+            //check budget and vorp
+            if(playerSalary <= budget && playerVorp > 0){
                 
-                if(positionObj[position][player].salary < budget && positionObj[position][player].vorp > 0){
-                    
-                    
-                    var teamArr = [player];
-                    var newBudget = budget-positionObj[position][player].salary
-                    vorpInArr += positionObj[position][player].vorp;
-                    delete positionObj[position];
-                    
-                    teamArr = teamArr.concat(maxVorp(positionObj,newBudget,vorpInArr));
-                    console.log(teamArr);
-                    //compare
-                    if(vorpInArr > maxVorpSoFar){
-                        maxVorpSoFar = vorpInArr;
-                        maxVorpTeamArr = teamArr;
-                    }
-                    
-                }
-                   
-                    
+                delete posObj[arrayOfPositions[position]]
+                console.log(player);
+                
+                var teamArr = [player].concat(maxVorp(posObj,budget-playerSalary));
             }
-                
+            
         }
-        
-        return vorpInArr;
-        
     }
-    
-};
+}
+
+
+
+
 
 var positionObj = {
     "pitchers": {
@@ -69,5 +61,4 @@ var positionObj = {
     }
 };
 
-console.log(maxVorp(positionObj,1000,0));
-
+console.log(maxVorp(positionObj,1000));
