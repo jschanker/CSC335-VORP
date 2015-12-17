@@ -38,15 +38,16 @@ app.get("/", function (req, res) {
     }, function (err) {
       //This is run when all the salaries are retrieved or there is an error
       var sortedPlayers = {};
-      _.each(players,function(value,key){
+      _.each(players, function (value, key) {
         var position = value.position;
-        if(!(position in sortedPlayers)) {
+        if (!(position in sortedPlayers)) {
           sortedPlayers[position] = {};
         }
-        sortedPlayers[position][key]=value;
+        sortedPlayers[position][key] = value;
       });
+      console.log("Sorted Players", sortedPlayers);
       var budget = 3000000;
-      var answer = algorithm.maxVORP(sortedPlayers,budget);
+      var answer = algorithm.maxVORP(sortedPlayers, budget);
       var renderData = {
         "team": players,
         "maxVorp": answer
@@ -57,6 +58,6 @@ app.get("/", function (req, res) {
 });
 
 //Run the web server
-app.listen(port, function() {
+app.listen(port, function () {
   console.log("Running on port", port);
 });
