@@ -8,6 +8,5 @@ html
         h2 Vorp:
         h2= maxVorp
         h2 Results
-        ol
-            each value, key in team ? team : {}
-                li= key
+        each value, key in team ? team : {}
+            p= team[key].position + " - " + key
