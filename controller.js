@@ -49,8 +49,8 @@ app.get("/", function (req, res) {
       var budget = 3000000;
       var answer = algorithm.maxVORP(sortedPlayers, budget);
       var renderData = {
-        "team": players,
-        "maxVorp": answer
+        "team": answer.team,
+        "maxVorp": answer.vorp
       };
       return res.render("index", renderData);
     });
