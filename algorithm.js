@@ -31,7 +31,6 @@ Process.maxVORP = function (positions, budget) {
           if (!isInMemo(newBudget, lengthOfPositions)) {
             subProblem = mV(subListOfPositions, newBudget);
             subProblem.vorp += parseFloat(currentPlayer.vorp);
-            var copyOfTeam = _.clone(subProblem.team);
             subProblem.team[playerName] = currentPlayer;
             addToMemo(budget, lengthOfPositions, subProblem);
           } else {
