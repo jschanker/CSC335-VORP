@@ -3,7 +3,7 @@ var _ = require("underscore");
 
 var Process = module.exports = {};
 
-Process.maxVORP = function (positions, budget) {
+Process.maxVORP = function (positions, budget, callback) {
   //Memo object
   var memo = {};
 
@@ -25,15 +25,12 @@ Process.maxVORP = function (positions, budget) {
         var currentSalary = parseInt(currentPlayer.salary);
         if (currentSalary <= budget) {
           var newBudget = budget - currentPlayer.salary;
-          subListOfPositions = _.clone(positions);
-          delete subListOfPositions[firstPosition];
 
           var lengthOfPositions = positionKeys.length;
           var subProblem;
           if (!isInMemo(newBudget, lengthOfPositions)) {
             subProblem = mV(subListOfPositions, newBudget);
             subProblem.vorp += parseFloat(currentPlayer.vorp);
-            var copyOfTeam = _.clone(subProblem.team);
             subProblem.team[playerName] = currentPlayer;
             addToMemo(budget, lengthOfPositions, subProblem);
           } else {
@@ -64,5 +61,5 @@ Process.maxVORP = function (positions, budget) {
     memo[positionsLeft][budget] = value;
   }
 
-  return mV(positions, budget);
+  return callback(mV(positions, budget), memo);
 };
