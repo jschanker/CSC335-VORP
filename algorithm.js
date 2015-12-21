@@ -3,7 +3,7 @@ var _ = require("underscore");
 
 var Process = module.exports = {};
 
-Process.maxVORP = function (positions, budget) {
+Process.maxVORP = function (positions, budget, callback) {
   //Memo object
   var memo = {};
 
@@ -61,5 +61,5 @@ Process.maxVORP = function (positions, budget) {
     memo[positionsLeft][budget] = value;
   }
 
-  return mV(positions, budget);
+  return callback(mV(positions, budget), memo);
 };

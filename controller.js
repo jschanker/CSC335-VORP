@@ -47,12 +47,14 @@ app.get("/", function (req, res) {
       });
       console.log("Sorted Players", sortedPlayers);
       var budget = 3000000;
-      var answer = algorithm.maxVORP(sortedPlayers, budget);
-      var renderData = {
-        "team": answer.team,
-        "maxVorp": answer.vorp
-      };
-      return res.render("index", renderData);
+      algorithm.maxVORP(sortedPlayers, budget, function (answer, memo) {
+        var renderData = {
+          "team": answer.team,
+          "maxVorp": answer.vorp
+        };
+        //console.log("Memo", memo);
+        return res.render("index", renderData);
+      });
     });
   });
 });
