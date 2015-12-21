@@ -25,8 +25,6 @@ Process.maxVORP = function (positions, budget) {
         var currentSalary = parseInt(currentPlayer.salary);
         if (currentSalary <= budget) {
           var newBudget = budget - currentPlayer.salary;
-          subListOfPositions = _.clone(positions);
-          delete subListOfPositions[firstPosition];
 
           var lengthOfPositions = positionKeys.length;
           var subProblem;
