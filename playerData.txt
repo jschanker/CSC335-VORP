@@ -1,0 +1,1298 @@
+Clayton Kershaw	Dodgers	Starting pitcher	$32,571,429	27	NL West	National League	California
+Justin Verlander	Tigers	Starting pitcher	$28,000,000	32	AL Central	American League	Michigan
+Josh Hamilton	Angels	Left field	$25,400,000	32	AL West	American League	California
+Ryan Howard	Phillies	First base	$25,000,000	35	NL East	National League	Pennsylvania
+Zack Greinke	Dodgers	Starting pitcher	$25,000,000	31	NL West	National League	California
+Cliff Lee	Phillies	Starting pitcher	$25,000,000	36	NL East	National League	Pennsylvania
+Felix Hernandez	Mariners	Starting pitcher	$24,857,143	28	AL West	American League	Washington
+Robinson Cano	Mariners	Second base	$24,000,000	32	AL West	American League	Washington
+Prince Fielder	Rangers	First base	$24,000,000	30	AL West	American League	Texas
+Albert Pujols	Angels	First base	$24,000,000	35	AL West	American League	California
+Cole Hamels	Phillies	Starting pitcher	$23,500,000	31	NL East	National League	Pennsylvania
+Mark Teixeira	Yankees	First base	$23,125,000	34	AL East	American League	New York
+CC Sabathia	Yankees	Starting pitcher	$23,000,000	33	AL East	American League	New York
+Joe Mauer	Twins	First base	$23,000,000	31	AL Central	American League	Minnesota
+Alex Rodriguez	Yankees	Third base	$22,000,000	38	AL East	American League	New York
+Jose Reyes	Blue Jays	Shortstop	$22,000,000	31	AL East	American League	Toronto
+Miguel Cabrera	Tigers	First base	$22,000,000	31	AL Central	American League	Michigan
+Masahiro Tanaka	Yankees	Starting pitcher	$22,000,000	25	AL East	American League	New York
+Adrian Gonzalez	Dodgers	First base	$21,857,143	32	NL West	National League	California
+Jayson Werth	Nationals	Left field	$21,571,429	35	NL East	National League	Washington D.C.
+Carl Crawford	Dodgers	Left field	$21,357,143	33	NL West	National League	California
+Matt Kemp	Padres	Right field	$21,250,000	30	NL West	National League	California
+Jacoby Ellsbury	Yankees	Center field	$21,142,857	30	AL East	American League	New York
+Matt Cain	Giants	Starting pitcher	$20,833,333	30	NL West	National League	California
+Jon Lester	Cubs	Starting pitcher	$20,000,000	31	NL Central	National League	Illinois
+Troy Tulowitzki	Rockies	Shortstop	$20,000,000	30	NL West	National League	Colorado
+David Wright	Mets	Third base	$20,000,000	32	NL East	National League	New York
+Mark Buehrle	Blue Jays	Starting pitcher	$20,000,000	36	AL East	American League	Toronto
+Hanley Ramirez	Red Sox	Left field	$19,750,000	30	AL East	American League	Massachusetts
+David Price	Tigers	Starting pitcher	$19,750,000	29	AL Central	American League	Michigan
+Adam Wainwright	Cardinals	Starting pitcher	$19,500,000	33	NL Central	National League	Missouri
+Hunter Pence	Giants	Right field	$18,500,000	31	NL West	National League	California
+C.J. Wilson	Angels	Starting pitcher	$18,500,000	34	AL West	American League	California
+Jered Weaver	Angels	Starting pitcher	$18,200,000	32	AL West	American League	California
+Andre Ethier	Dodgers	Left field	$18,000,000	32	NL West	National League	California
+Tim Lincecum	Giants	Starting pitcher	$18,000,000	30	NL West	National League	California
+Pablo Sandoval	Red Sox	Third base	$17,600,000	27	AL East	American League	Massachusetts
+Buster Posey	Giants	Catcher	$17,277,777	28	NL West	National League	California
+Max Scherzer	Nationals	Starting pitcher	$17,142,857	30	NL East	National League	Washington D.C.
+Matt Holliday	Cardinals	Left field	$17,000,000	35	NL Central	National League	Missouri
+Brian McCann	Yankees	Catcher	$17,000,000	31	AL East	American League	New York
+Anibal Sanchez	Tigers	Starting pitcher	$16,800,000	31	AL Central	American League	Michigan
+Jordan Zimmermann	Nationals	Starting pitcher	$16,500,000	28	NL East	National League	Washington D.C.
+Carlos Gonzalez	Rockies	Left field	$16,428,571	29	NL West	National League	Colorado
+Adrian Beltre	Rangers	Third base	$16,000,000	35	AL West	American League	Texas
+David Ortiz	Red Sox	Designated hitter	$16,000,000	38	AL East	American League	Massachusetts
+Mike Napoli	Red Sox	First base	$16,000,000	32	AL East	American League	Massachusetts
+Curtis Granderson	Mets	Right field	$16,000,000	34	NL East	National League	New York
+Ian Kinsler	Tigers	Second base	$16,000,000	32	AL Central	American League	Michigan
+John Danks	White Sox	Starting pitcher	$15,750,000	29	AL Central	American League	Illinois
+Elvis Andrus	Rangers	Shortstop	$15,250,000	26	AL West	American League	Texas
+Yadier Molina	Cardinals	Catcher	$15,200,000	32	NL Central	National League	Missouri
+Chase Utley	Phillies	Second base	$15,000,000	36	NL East	National League	Pennsylvania
+Jhonny Peralta	Cardinals	Shortstop	$15,000,000	32	NL Central	National League	Missouri
+Carlos Beltran	Yankees	Right field	$15,000,000	37	AL East	American League	New York
+Nick Swisher	Indians	Right field	$15,000,000	34	AL Central	American League	Ohio
+Justin Upton	Padres	Left field	$14,708,333	27	NL West	National League	California
+Melvin Upton Jr.	Padres	Center field	$14,450,000	30	NL West	National League	California
+Nelson Cruz	Mariners	Designated hitter	$14,250,000	34	AL West	American League	Washington
+Yovani Gallardo	Rangers	Starting pitcher	$14,000,000	29	AL West	American League	Texas
+Joey Votto	Reds	First base	$14,000,000	31	NL Central	National League	Ohio
+Shin-Soo Choo	Rangers	Right field	$14,000,000	32	AL West	American League	Texas
+Victor Martinez	Tigers	Designated hitter	$14,000,000	36	AL Central	American League	Michigan
+Ryan Zimmerman	Nationals	First base	$14,000,000	30	NL East	National League	Washington D.C.
+Alex Gordon	Royals	Left field	$14,000,000	31	AL Central	American League	Missouri
+Jose Bautista	Blue Jays	Right field	$14,000,000	34	AL East	American League	Toronto
+Aramis Ramirez	Brewers	Third base	$14,000,000	36	NL Central	National League	Wisconsin
+Ervin Santana	Twins	Starting pitcher	$13,500,000	32	AL Central	American League	Minnesota
+Michael Bourn	Indians	Center field	$13,500,000	32	AL Central	American League	Ohio
+Adam Jones	Orioles	Center field	$13,333,333	29	AL East	American League	Maryland
+Matt Harrison	Rangers	Starting pitcher	$13,200,000	29	AL West	American League	Texas
+Ryan Braun	Brewers	Right field	$13,000,000	31	NL Central	National League	Wisconsin
+Dan Uggla	Nationals	Second base	$13,000,000	35	NL East	National League	Washington D.C.
+Chase Headley	Yankees	Third base	$13,000,000	30	AL East	American League	New York
+Melky Cabrera	White Sox	Left field	$13,000,000	30	AL Central	American League	Illinois
+Edwin Jackson	Cubs	Starting pitcher	$13,000,000	31	NL Central	National League	Illinois
+Scott Kazmir	Athletics	Starting pitcher	$13,000,000	31	AL West	American League	California
+Jonathan Papelbon	Phillies	Relief pitcher	$13,000,000	34	NL East	National League	Pennsylvania
+Shane Victorino	Red Sox	Right field	$13,000,000	33	AL East	American League	Massachusetts
+Dustin Pedroia	Red Sox	Second base	$12,625,000	30	AL East	American League	Massachusetts
+Rick Porcello	Red Sox	Starting pitcher	$12,500,000	25	AL East	American League	Massachusetts
+Brett Gardner	Yankees	Left field	$12,500,000	30	AL East	American League	New York
+Jorge De La Rosa	Rockies	Starting pitcher	$12,500,000	34	NL West	National League	Colorado
+Brandon McCarthy	Dodgers	Starting pitcher	$12,500,000	31	NL West	National League	California
+Matt Garza	Brewers	Starting pitcher	$12,500,000	31	NL Central	National League	Wisconsin
+Ubaldo Jimenez	Orioles	Starting pitcher	$12,250,000	31	AL East	American League	Maryland
+Clay Buchholz	Red Sox	Starting pitcher	$12,250,000	29	AL East	American League	Massachusetts
+Jay Bruce	Reds	Right field	$12,041,667	28	NL Central	National League	Ohio
+Chris Davis	Orioles	First base	$12,000,000	29	AL East	American League	Maryland
+Brandon Phillips	Reds	Second base	$12,000,000	33	NL Central	National League	Ohio
+Ricky Nolasco	Twins	Starting pitcher	$12,000,000	32	AL Central	American League	Minnesota
+Aaron Hill	Diamondbacks	Second base	$12,000,000	33	NL West	National League	Arizona
+R.A. Dickey	Blue Jays	Starting pitcher	$12,000,000	40	AL East	American League	Toronto
+Trevor Cahill	Braves	Starting pitcher	$12,000,000	27	NL East	National League	Georgia
+Tim Hudson	Giants	Starting pitcher	$12,000,000	39	NL West	National League	California
+Adam LaRoche	White Sox	Designated hitter	$12,000,000	35	AL Central	American League	Illinois
+Miguel Montero	Cubs	Catcher	$12,000,000	31	NL Central	National League	Illinois
+Francisco Liriano	Pirates	Starting pitcher	$11,666,667	31	NL Central	National League	Pennsylvania
+J.J. Hardy	Orioles	Shortstop	$11,500,000	32	AL East	American League	Maryland
+Doug Fister	Nationals	Starting pitcher	$11,400,000	31	NL East	National League	Washington D.C.
+Gio Gonzalez	Nationals	Starting pitcher	$11,100,000	29	NL East	National League	Washington D.C.
+Bartolo Colon	Mets	Starting pitcher	$11,000,000	41	NL East	National League	New York
+Coco Crisp	Athletics	Center field	$11,000,000	35	AL West	American League	California
+Ian Desmond	Nationals	Shortstop	$11,000,000	29	NL East	National League	Washington D.C.
+Evan Longoria	Rays	Third base	$11,000,000	29	AL East	American League	Florida
+Kyle Lohse	Brewers	Starting pitcher	$11,000,000	36	NL Central	National League	Wisconsin
+Martin Prado	Marlins	Third base	$11,000,000	31	NL East	National League	Florida
+Nick Markakis	Braves	Right field	$11,000,000	31	NL East	National League	Georgia
+Jimmy Rollins	Dodgers	Shortstop	$11,000,000	36	NL West	National League	California
+Yoenis Cespedes	Tigers	Left field	$10,500,000	29	AL Central	American League	Michigan
+Torii Hunter	Twins	Right field	$10,500,000	39	AL Central	American League	Minnesota
+Angel Pagan	Giants	Center field	$10,250,000	33	NL West	National League	California
+Andrew McCutchen	Pirates	Center field	$10,208,333	28	NL Central	National League	Pennsylvania
+Scott Feldman	Astros	Starting pitcher	$10,000,000	32	AL West	American League	Texas
+James Shields	Padres	Starting pitcher	$10,000,000	33	NL West	National League	California
+Yu Darvish	Rangers	Starting pitcher	$10,000,000	28	AL West	American League	Texas
+Homer Bailey	Reds	Starting pitcher	$10,000,000	28	NL Central	National League	Ohio
+Dan Haren	Marlins	Starting pitcher	$10,000,000	34	NL East	National League	Florida
+Brett Anderson	Dodgers	Starting pitcher	$10,000,000	27	NL West	National League	California
+Johnny Cueto	Reds	Starting pitcher	$10,000,000	29	NL Central	National League	Ohio
+David Robertson	White Sox	Relief pitcher	$10,000,000	29	AL Central	American League	Illinois
+Edwin Encarnacion	Blue Jays	Designated hitter	$10,000,000	32	AL East	American League	Toronto
+Joe Nathan	Tigers	Relief pitcher	$10,000,000	40	AL Central	American League	Michigan
+Alexei Ramirez	White Sox	Shortstop	$10,000,000	33	AL Central	American League	Illinois
+Howie Kendrick	Dodgers	Second base	$9,850,000	31	NL West	National League	California
+Ian Kennedy	Padres	Starting pitcher	$9,850,000	30	NL West	National League	California
+Jeff Samardzija	White Sox	Starting pitcher	$9,800,000	30	AL Central	American League	Illinois
+Mike Leake	Reds	Starting pitcher	$9,775,000	27	NL Central	National League	Ohio
+Justin Masterson	Red Sox	Starting pitcher	$9,500,000	30	AL East	American League	Massachusetts
+Dexter Fowler	Cubs	Center field	$9,500,000	29	NL Central	National League	Illinois
+Alex Rios	Royals	Right field	$9,500,000	34	AL Central	American League	Missouri
+Bronson Arroyo	Diamondbacks	Starting pitcher	$9,500,000	38	NL West	National League	Arizona
+Mat Latos	Marlins	Starting pitcher	$9,400,000	27	NL East	National League	Florida
+Jaime Garcia	Cardinals	Starting pitcher	$9,375,000	28	NL Central	National League	Missouri
+Phil Hughes	Twins	Starting pitcher	$9,200,000	28	AL Central	American League	Minnesota
+Jonathan Broxton	Brewers	Relief pitcher	$9,000,000	30	NL Central	National League	Wisconsin
+Jake Peavy	Giants	Starting pitcher	$9,000,000	33	NL West	National League	California
+Jeremy Guthrie	Royals	Starting pitcher	$9,000,000	35	AL Central	American League	Missouri
+Denard Span	Nationals	Center field	$9,000,000	31	NL East	National League	Washington D.C.
+Koji Uehara	Red Sox	Relief pitcher	$9,000,000	40	AL East	American League	Massachusetts
+Jason Hammel	Cubs	Starting pitcher	$9,000,000	32	NL Central	National League	Illinois
+Craig Kimbrel	Padres	Relief pitcher	$9,000,000	26	NL West	National League	California
+Andrew Miller	Yankees	Relief pitcher	$9,000,000	29	AL East	American League	New York
+Freddie Freeman	Braves	First base	$8,859,375	25	NL East	National League	Georgia
+Bud Norris	Orioles	Starting pitcher	$8,800,000	30	AL East	American League	Maryland
+Erick Aybar	Angels	Shortstop	$8,750,000	31	AL West	American League	California
+James Loney	Rays	First base	$8,666,667	30	AL East	American League	Florida
+Jose Abreu	White Sox	First base	$8,666,667	28	AL Central	American League	Illinois
+A.J. Burnett	Pirates	Starting pitcher	$8,500,000	38	NL Central	National League	Pennsylvania
+Michael Cuddyer	Mets	Left field	$8,500,000	36	NL East	National League	New York
+Carlos Ruiz	Phillies	Catcher	$8,500,000	36	NL East	National League	Pennsylvania
+Jason Vargas	Royals	Starting pitcher	$8,500,000	32	AL Central	American League	Missouri
+Brandon League	Dodgers	Relief pitcher	$8,500,000	32	NL West	National League	California
+Tyler Clippard	Athletics	Relief pitcher	$8,300,000	30	AL West	American League	California
+Jason Heyward	Cardinals	Right field	$8,300,000	25	NL Central	National League	Missouri
+Matt Wieters	Orioles	Catcher	$8,300,000	28	AL East	American League	Maryland
+Greg Holland	Royals	Relief pitcher	$8,250,000	29	AL Central	American League	Missouri
+Aroldis Chapman	Reds	Relief pitcher	$8,050,000	27	NL Central	National League	Ohio
+Carlos Quentin	Braves	Left field	$8,000,000	32	NL East	National League	Georgia
+Neil Walker	Pirates	Second base	$8,000,000	29	NL Central	National League	Pennsylvania
+Jed Lowrie	Astros	Shortstop	$8,000,000	30	AL West	American League	Texas
+Charlie Morton	Pirates	Starting pitcher	$8,000,000	31	NL Central	National League	Pennsylvania
+Marlon Byrd	Reds	Left field	$8,000,000	37	NL Central	National League	Ohio
+Colby Rasmus	Astros	Center field	$8,000,000	28	AL West	American League	Texas
+Daniel Murphy	Mets	Second base	$8,000,000	30	NL East	National League	New York
+Carlos Gomez	Brewers	Center field	$8,000,000	29	NL Central	National League	Wisconsin
+Joaquin Benoit	Padres	Relief pitcher	$8,000,000	37	NL West	National League	California
+Austin Jackson	Mariners	Center field	$7,700,000	28	AL West	American League	Washington
+Omar Infante	Royals	Second base	$7,500,000	33	AL Central	American League	Missouri
+Michael Morse	Marlins	First base	$7,500,000	33	NL East	National League	Florida
+Ben Zobrist	Athletics	Second base	$7,500,000	33	AL West	American League	California
+Juan Uribe	Dodgers	Third base	$7,500,000	36	NL West	National League	California
+Adam Lind	Brewers	First base	$7,500,000	31	NL Central	National League	Wisconsin
+Edinson Volquez	Royals	Starting pitcher	$7,500,000	31	AL Central	American League	Missouri
+Asdrubal Cabrera	Rays	Second base	$7,500,000	29	AL East	American League	Florida
+Grant Balfour	Rays	Relief pitcher	$7,500,000	37	AL East	American League	Florida
+Derek Holland	Rangers	Starting pitcher	$7,400,000	28	AL West	American League	Texas
+Kenley Jansen	Dodgers	Relief pitcher	$7,400,000	27	NL West	National League	California
+Stephen Strasburg	Nationals	Starting pitcher	$7,400,000	26	NL East	National League	Washington D.C.
+Jon Niese	Mets	Starting pitcher	$7,050,000	28	NL East	National League	New York
+Fernando Rodney	Mariners	Relief pitcher	$7,000,000	38	AL West	American League	Washington
+Russell Martin	Blue Jays	Catcher	$7,000,000	32	AL East	American League	Toronto
+Cameron Maybin	Braves	Center field	$7,000,000	28	NL East	National League	Georgia
+Lance Lynn	Cardinals	Starting pitcher	$7,000,000	27	NL Central	National League	Missouri
+Wade Davis	Royals	Relief pitcher	$7,000,000	29	AL Central	American League	Missouri
+Huston Street	Angels	Relief pitcher	$7,000,000	31	AL West	American League	California
+Hisashi Iwakuma	Mariners	Starting pitcher	$7,000,000	33	AL West	American League	Washington
+Jarrod Saltalamacchia	Marlins	Catcher	$7,000,000	29	NL East	National League	Florida
+Joakim Soria	Tigers	Relief pitcher	$7,000,000	30	AL Central	American League	Michigan
+Madison Bumgarner	Giants	Starting pitcher	$6,950,000	25	NL West	National League	California
+Mark Trumbo	Diamondbacks	Left field	$6,900,000	29	NL West	National League	Arizona
+Starlin Castro	Cubs	Shortstop	$6,857,143	25	NL Central	National League	Illinois
+Justin Morneau	Rockies	First base	$6,750,000	33	NL West	National League	Colorado
+J.A. Happ	Mariners	Starting pitcher	$6,700,000	32	AL West	American League	Washington
+Billy Butler	Athletics	Designated hitter	$6,666,667	28	AL West	American League	California
+Steve Cishek	Marlins	Relief pitcher	$6,650,000	28	NL East	National League	Florida
+Kendrys Morales	Royals	Designated hitter	$6,500,000	31	AL Central	American League	Missouri
+Sean Marshall	Reds	Relief pitcher	$6,500,000	32	NL Central	National League	Ohio
+Brandon Moss	Indians	First base	$6,500,000	31	AL Central	American League	Ohio
+Giancarlo Stanton	Marlins	Right field	$6,500,000	25	NL East	National League	Florida
+Alex Guerrero	Dodgers	Second base	$6,500,000	28	NL West	National League	California
+David Freese	Angels	Third base	$6,425,000	31	AL West	American League	California
+Gerardo Parra	Brewers	Right field	$6,237,000	27	NL Central	National League	Wisconsin
+Yasiel Puig	Dodgers	Right field	$6,214,286	24	NL West	National League	California
+Carlos Santana	Indians	Designated hitter	$6,200,000	28	AL Central	American League	Ohio
+Mike Trout	Angels	Center field	$6,083,333	23	AL West	American League	California
+David Murphy	Indians	Right field	$6,000,000	33	AL Central	American League	Ohio
+Chris Sale	White Sox	Starting pitcher	$6,000,000	26	AL Central	American League	Illinois
+Kurt Suzuki	Twins	Catcher	$6,000,000	31	AL Central	American League	Minnesota
+Luke Gregerson	Astros	Relief pitcher	$6,000,000	30	AL West	American League	Texas
+Seth Smith	Mariners	Right field	$6,000,000	32	AL West	American League	Washington
+Chris Johnson	Braves	Third base	$6,000,000	30	NL East	National League	Georgia
+Jeremy Affeldt	Giants	Relief pitcher	$6,000,000	35	NL West	National League	California
+Sergio Romo	Giants	Relief pitcher	$6,000,000	32	NL West	National League	California
+Michael Brantley	Indians	Left field	$5,875,000	27	AL Central	American League	Ohio
+Drew Stubbs	Rockies	Center field	$5,825,000	30	NL West	National League	Colorado
+Pedro Alvarez	Pirates	First base	$5,750,000	28	NL Central	National League	Pennsylvania
+Drew Storen	Nationals	Relief pitcher	$5,700,000	27	NL East	National League	Washington D.C.
+Travis Wood	Cubs	Starting pitcher	$5,685,000	28	NL Central	National League	Illinois
+Eric Hosmer	Royals	First base	$5,650,000	25	AL Central	American League	Missouri
+Mike Minor	Braves	Starting pitcher	$5,600,000	27	NL East	National League	Georgia
+Alfredo Simon	Tigers	Starting pitcher	$5,550,000	33	AL Central	American League	Michigan
+Chris Iannetta	Angels	Catcher	$5,525,000	31	AL West	American League	California
+J.P. Howell	Dodgers	Relief pitcher	$5,500,000	31	NL West	National League	California
+Eric O'Flaherty	Athletics	Relief pitcher	$5,500,000	30	AL West	American League	California
+Allen Craig	Red Sox	Right field	$5,500,000	29	AL East	American League	Massachusetts
+Mike Pelfrey	Twins	Starting pitcher	$5,500,000	31	AL Central	American League	Minnesota
+Pat Neshek	Astros	Relief pitcher	$5,500,000	34	AL West	American League	Texas
+Kyle Kendrick	Rockies	Starting pitcher	$5,500,000	30	NL West	National League	Colorado
+Boone Logan	Rockies	Relief pitcher	$5,500,000	30	NL West	National League	Colorado
+Mark Melancon	Pirates	Relief pitcher	$5,400,000	30	NL Central	National League	Pennsylvania
+Alex Avila	Tigers	Catcher	$5,400,000	28	AL Central	American League	Michigan
+Cory Luebke	Padres	Starting pitcher	$5,375,000	30	NL West	National League	California
+Dillon Gee	Mets	Starting pitcher	$5,300,000	28	NL East	National League	New York
+Anthony Rizzo	Cubs	First base	$5,285,714	25	NL Central	National League	Illinois
+Joe Smith	Angels	Relief pitcher	$5,250,000	31	AL West	American League	California
+Tyson Ross	Padres	Starting pitcher	$5,250,000	27	NL West	National League	California
+David DeJesus	Rays	Left field	$5,125,000	35	AL East	American League	Florida
+Stephen Drew	Yankees	Second base	$5,000,000	32	AL East	American League	New York
+Garrett Jones	Yankees	First base	$5,000,000	33	AL East	American League	New York
+Yunel Escobar	Nationals	Shortstop	$5,000,000	32	NL East	National League	Washington D.C.
+Rajai Davis	Tigers	Center field	$5,000,000	34	AL Central	American League	Michigan
+Chris Capuano	Yankees	Starting pitcher	$5,000,000	35	AL East	American League	New York
+Aaron Harang	Phillies	Starting pitcher	$5,000,000	36	NL East	National League	Pennsylvania
+Santiago Casilla	Giants	Relief pitcher	$5,000,000	34	NL West	National League	California
+Brad Ziegler	Diamondbacks	Relief pitcher	$5,000,000	35	NL West	National League	Arizona
+Alejandro De Aza	Orioles	Left field	$5,000,000	30	AL East	American League	Maryland
+Dioner Navarro	Blue Jays	Catcher	$5,000,000	31	AL East	American League	Toronto
+Nate McLouth	Nationals	Left field	$5,000,000	33	NL East	National League	Washington D.C.
+Addison Reed	Diamondbacks	Relief pitcher	$4,875,000	26	NL West	National League	Arizona
+Hyun-Jin Ryu	Dodgers	Starting pitcher	$4,833,333	28	NL West	National League	California
+Casey McGehee	Giants	Third base	$4,800,000	32	NL West	National League	California
+Trevor Plouffe	Twins	Third base	$4,800,000	28	AL Central	American League	Minnesota
+Matt Joyce	Angels	Designated hitter	$4,750,000	30	AL West	American League	California
+Edward Mujica	Red Sox	Relief pitcher	$4,750,000	30	AL East	American League	Massachusetts
+Leonys Martin	Rangers	Center field	$4,750,000	27	AL West	American League	Texas
+Wei-Yin Chen	Orioles	Starting pitcher	$4,750,000	29	AL East	American League	Maryland
+Tommy Hunter	Orioles	Relief pitcher	$4,650,000	28	AL East	American League	Maryland
+Glen Perkins	Twins	Relief pitcher	$4,650,000	32	AL Central	American League	Minnesota
+Kyle Seager	Mariners	Third base	$4,500,000	27	AL West	American League	Washington
+Jason Motte	Cubs	Relief pitcher	$4,500,000	32	NL Central	National League	Illinois
+Zach Duke	White Sox	Relief pitcher	$4,500,000	31	AL Central	American League	Illinois
+Chris Tillman	Orioles	Starting pitcher	$4,315,000	26	AL East	American League	Maryland
+Josh Donaldson	Blue Jays	Third base	$4,300,000	29	AL East	American League	Toronto
+Jeremy Hellickson	Diamondbacks	Starting pitcher	$4,275,000	27	NL West	National League	Arizona
+Jason Grilli	Braves	Relief pitcher	$4,250,000	38	NL East	National League	Georgia
+Will Venable	Padres	Center field	$4,250,000	32	NL West	National League	California
+A.J. Ellis	Dodgers	Catcher	$4,250,000	33	NL West	National League	California
+Darren O'Day	Orioles	Relief pitcher	$4,250,000	32	AL East	American League	Maryland
+Luis Valbuena	Astros	Third base	$4,200,000	29	AL West	American League	Texas
+Lucas Duda	Mets	First base	$4,200,000	29	NL East	National League	New York
+Chris Carter	Astros	Designated hitter	$4,175,000	28	AL West	American League	Texas
+Jason Kipnis	Indians	Second base	$4,166,667	28	AL Central	American League	Ohio
+Neftali Feliz	Rangers	Relief pitcher	$4,125,000	26	AL West	American League	Texas
+Jon Jay	Cardinals	Center field	$4,125,000	30	NL Central	National League	Missouri
+Ben Revere	Phillies	Center field	$4,100,000	26	NL East	National League	Pennsylvania
+Josh Reddick	Athletics	Right field	$4,100,000	28	AL West	American League	California
+Andrew Cashner	Padres	Starting pitcher	$4,050,000	28	NL West	National League	California
+Tsuyoshi Wada	Cubs	Relief pitcher	$4,000,000	34	NL Central	National League	Illinois
+Henderson Alvarez	Marlins	Starting pitcher	$4,000,000	24	NL East	National League	Florida
+Gavin Floyd	Indians	Starting pitcher	$4,000,000	32	AL Central	American League	Ohio
+Jason Castro	Astros	Catcher	$4,000,000	27	AL West	American League	Texas
+Jonny Gomes	Braves	Left field	$4,000,000	34	NL East	National League	Georgia
+Luke Hochevar	Royals	Relief pitcher	$4,000,000	31	AL Central	American League	Missouri
+Javier Lopez	Giants	Relief pitcher	$4,000,000	37	NL West	National League	California
+Ryan Vogelsong	Giants	Starting pitcher	$4,000,000	37	NL West	National League	California
+Alex Cobb	Rays	Starting pitcher	$4,000,000	27	AL East	American League	Florida
+Colby Lewis	Rangers	Starting pitcher	$4,000,000	35	AL West	American League	Texas
+Nori Aoki	Giants	Left field	$4,000,000	33	NL West	National League	California
+Marco Estrada	Blue Jays	Starting pitcher	$3,900,000	31	AL East	American League	Toronto
+Ike Davis	Athletics	First base	$3,800,000	28	AL West	American League	California
+Matt Carpenter	Cardinals	Third base	$3,750,000	29	NL Central	National League	Missouri
+Todd Frazier	Reds	Third base	$3,750,000	29	NL Central	National League	Ohio
+Bobby Parnell	Mets	Relief pitcher	$3,700,000	30	NL East	National League	New York
+Steve Pearce	Orioles	Right field	$3,700,000	31	AL East	American League	Maryland
+Wade Miley	Red Sox	Starting pitcher	$3,666,667	27	AL East	American League	Massachusetts
+Jake Arrieta	Cubs	Starting pitcher	$3,630,000	29	NL Central	National League	Illinois
+Gregor Blanco	Giants	Center field	$3,600,000	31	NL West	National League	California
+Brandon Belt	Giants	First base	$3,600,000	26	NL West	National League	California
+Jake McGee	Rays	Relief pitcher	$3,550,000	28	AL East	American League	Florida
+Wilson Ramos	Nationals	Catcher	$3,550,000	27	NL East	National League	Washington D.C.
+Francisco Rodriguez	Brewers	Relief pitcher	$3,500,000	33	NL Central	National League	Wisconsin
+Matt Belisle	Cardinals	Relief pitcher	$3,500,000	34	NL Central	National League	Missouri
+Manny Parra	Reds	Relief pitcher	$3,500,000	32	NL Central	National League	Ohio
+Casey Janssen	Nationals	Relief pitcher	$3,500,000	33	NL East	National League	Washington D.C.
+Mike Aviles	Indians	Shortstop	$3,500,000	34	AL Central	American League	Ohio
+Matt Thornton	Nationals	Relief pitcher	$3,500,000	38	NL East	National League	Washington D.C.
+Ryan Hanigan	Red Sox	Catcher	$3,500,000	33	AL East	American League	Massachusetts
+Ross Detwiler	Rangers	Starting pitcher	$3,450,000	29	AL West	American League	Texas
+Jose Quintana	White Sox	Starting pitcher	$3,400,000	26	AL Central	American League	Illinois
+Jonathan Lucroy	Brewers	Catcher	$3,400,000	28	NL Central	National League	Wisconsin
+Ivan Nova	Yankees	Starting pitcher	$3,300,000	27	AL East	American League	New York
+Nathan Eovaldi	Yankees	Starting pitcher	$3,300,000	25	AL East	American League	New York
+Cliff Pennington	Diamondbacks	Shortstop	$3,275,000	30	NL West	National League	Arizona
+Miguel Gonzalez	Orioles	Starting pitcher	$3,275,000	30	AL East	American League	Maryland
+Garrett Richards	Angels	Starting pitcher	$3,200,000	26	AL West	American League	California
+Zach Britton	Orioles	Relief pitcher	$3,200,000	27	AL East	American League	Maryland
+Brian Matusz	Orioles	Relief pitcher	$3,200,000	28	AL East	American League	Maryland
+Brandon Crawford	Giants	Shortstop	$3,175,000	28	NL West	National League	California
+John Jaso	Rays	Catcher	$3,175,000	31	AL East	American League	Florida
+Andrelton Simmons	Braves	Shortstop	$3,142,857	25	NL East	National League	Georgia
+Antonio Bastardo	Pirates	Relief pitcher	$3,100,000	29	NL Central	National League	Pennsylvania
+Desmond Jennings	Rays	Center field	$3,100,000	28	AL East	American League	Florida
+Matt Moore	Rays	Starting pitcher	$3,100,000	25	AL East	American League	Florida
+Nick Hundley	Rockies	Catcher	$3,100,000	31	NL West	National League	Colorado
+Paul Goldschmidt	Diamondbacks	First base	$3,100,000	27	NL West	National League	Arizona
+Kevin Jepsen	Rays	Relief pitcher	$3,025,000	30	AL East	American League	Florida
+Neal Cotts	Brewers	Relief pitcher	$3,000,000	35	NL Central	National League	Wisconsin
+Randy Choate	Cardinals	Relief pitcher	$3,000,000	39	NL Central	National League	Missouri
+Maicer Izturis	Blue Jays	Second base	$3,000,000	34	AL East	American League	Toronto
+Chad Qualls	Astros	Relief pitcher	$3,000,000	36	AL West	American League	Texas
+J.D. Martinez	Tigers	Right field	$3,000,000	27	AL Central	American League	Michigan
+Willie Bloomquist	Mariners	Second base	$3,000,000	37	AL West	American League	Washington
+Alberto Callaspo	Braves	Second base	$3,000,000	31	NL East	National League	Georgia
+Alcides Escobar	Royals	Shortstop	$3,000,000	28	AL Central	American League	Missouri
+Emilio Bonifacio	White Sox	Second base	$3,000,000	29	AL Central	American League	Illinois
+Mitch Moreland	Rangers	First base	$2,950,000	29	AL West	American League	Texas
+Michael Saunders	Blue Jays	Left field	$2,875,000	28	AL East	American League	Toronto
+Shawn Kelley	Padres	Relief pitcher	$2,835,000	30	NL West	National League	California
+Josh Harrison	Pirates	Third base	$2,800,000	27	NL Central	National League	Pennsylvania
+Wilin Rosario	Rockies	Catcher	$2,800,000	26	NL West	National League	Colorado
+Tommy Milone	Twins	Starting pitcher	$2,775,000	28	AL Central	American League	Minnesota
+Brandon Beachy	Dodgers	Starting pitcher	$2,750,000	28	NL West	National League	California
+Ryan Webb	Orioles	Relief pitcher	$2,750,000	29	AL East	American League	Maryland
+Logan Morrison	Mariners	First base	$2,725,000	27	AL West	American League	Washington
+Lorenzo Cain	Royals	Center field	$2,725,000	28	AL Central	American League	Missouri
+Brian Duensing	Twins	Relief pitcher	$2,700,000	32	AL Central	American League	Minnesota
+Jose Altuve	Astros	Second base	$2,687,500	24	AL West	American League	Texas
+Jordan Walden	Cardinals	Relief pitcher	$2,675,000	27	NL Central	National League	Missouri
+Tyler Flowers	White Sox	Catcher	$2,675,000	29	AL Central	American League	Illinois
+Jorge Soler	Cubs	Right field	$2,666,667	23	NL Central	National League	Illinois
+Roberto Hernandez	Astros	Starting pitcher	$2,650,000	34	AL West	American League	Texas
+Drew Smyly	Rays	Starting pitcher	$2,650,000	25	AL East	American League	Florida
+Mike Moustakas	Royals	Third base	$2,640,000	26	AL Central	American League	Missouri
+Domonic Brown	Phillies	Left field	$2,600,000	27	NL East	National League	Pennsylvania
+Dustin Ackley	Mariners	Left field	$2,600,000	27	AL West	American League	Washington
+John Axford	Rockies	Relief pitcher	$2,600,000	32	NL West	National League	Colorado
+Chris Denorfia	Cubs	Right field	$2,600,000	34	NL Central	National League	Illinois
+Jenrry Mejia	Mets	Relief pitcher	$2,595,000	25	NL East	National League	New York
+Darwin Barney	Dodgers	Second base	$2,525,000	29	NL West	National League	California
+Devin Mesoraco	Reds	Catcher	$2,525,000	26	NL Central	National League	Ohio
+Pedro Strop	Cubs	Relief pitcher	$2,525,000	29	NL Central	National League	Illinois
+Justin Ruggiano	Mariners	Right field	$2,505,000	32	AL West	American League	Washington
+Chris Coghlan	Cubs	Left field	$2,505,000	29	NL Central	National League	Illinois
+Joel Peralta	Dodgers	Relief pitcher	$2,500,000	39	NL West	National League	California
+David Ross	Cubs	Catcher	$2,500,000	38	NL Central	National League	Illinois
+Oliver Perez	Diamondbacks	Relief pitcher	$2,500,000	33	NL West	National League	Arizona
+Chris Young	Yankees	Right field	$2,500,000	30	AL East	American League	New York
+Dee Gordon	Marlins	Second base	$2,500,000	26	NL East	National League	Florida
+Skip Schumaker	Reds	Left field	$2,500,000	35	NL Central	National League	Ohio
+Jung Ho Kang	Pirates	Shortstop	$2,500,000	28	NL Central	National League	Pennsylvania
+Brandon Morrow	Padres	Starting pitcher	$2,500,000	30	NL West	National League	California
+Ryan Raburn	Indians	Right field	$2,500,000	33	AL Central	American League	Ohio
+Justin Turner	Dodgers	Second base	$2,500,000	30	NL West	National League	California
+Corey Hart	Pirates	Right field	$2,500,000	33	NL Central	National League	Pennsylvania
+Jerome Williams	Phillies	Starting pitcher	$2,500,000	33	NL East	National League	Pennsylvania
+Bryce Harper	Nationals	Right field	$2,500,000	22	NL East	National League	Washington D.C.
+Brett Cecil	Blue Jays	Relief pitcher	$2,475,000	28	AL East	American League	Toronto
+Jordan Lyles	Rockies	Starting pitcher	$2,475,000	24	NL West	National League	Colorado
+Vance Worley	Pirates	Starting pitcher	$2,450,000	27	NL Central	National League	Pennsylvania
+Danny Duffy	Royals	Starting pitcher	$2,425,000	26	AL Central	American League	Missouri
+Jerry Blevins	Mets	Relief pitcher	$2,400,000	31	NL East	National League	New York
+Tony Sipp	Astros	Relief pitcher	$2,400,000	31	AL West	American League	Texas
+Everth Cabrera	Orioles	Shortstop	$2,400,000	28	AL East	American League	Maryland
+Marc Rzepczynski	Indians	Relief pitcher	$2,400,000	29	AL Central	American League	Ohio
+Zack Cozart	Reds	Shortstop	$2,350,000	29	NL Central	National League	Ohio
+Mike Dunn	Marlins	Relief pitcher	$2,350,000	29	NL East	National League	Florida
+Carlos Carrasco	Indians	Starting pitcher	$2,337,000	28	AL Central	American League	Ohio
+Juan Nicasio	Dodgers	Relief pitcher	$2,300,000	28	NL West	National League	California
+Hector Santiago	Angels	Starting pitcher	$2,290,000	27	AL West	American League	California
+Lonnie Chisenhall	Indians	Third base	$2,250,000	26	AL Central	American League	Ohio
+Phil Coke	Cubs	Relief pitcher	$2,250,000	32	NL Central	National League	Illinois
+Craig Stammen	Nationals	Relief pitcher	$2,250,000	31	NL East	National League	Washington D.C.
+Delmon Young	Orioles	Left field	$2,250,000	29	AL East	American League	Maryland
+LaTroy Hawkins	Rockies	Relief pitcher	$2,250,000	42	NL West	National League	Colorado
+Junichi Tazawa	Red Sox	Relief pitcher	$2,250,000	28	AL East	American League	Massachusetts
+Tim Stauffer	Twins	Relief pitcher	$2,200,000	32	AL Central	American League	Minnesota
+Jesse Chavez	Athletics	Starting pitcher	$2,150,000	31	AL West	American League	California
+Jeff Baker	Marlins	Second base	$2,100,000	33	NL East	National League	Florida
+Welington Castillo	Cubs	Catcher	$2,100,000	27	NL Central	National League	Illinois
+Yusmeiro Petit	Giants	Relief pitcher	$2,100,000	30	NL West	National League	California
+Travis Snider	Orioles	Right field	$2,100,000	27	AL East	American League	Maryland
+Michael Pineda	Yankees	Starting pitcher	$2,100,000	26	AL East	American League	New York
+Rickie Weeks	Mariners	Second base	$2,000,000	32	AL West	American League	Washington
+Eric Stults	Braves	Starting pitcher	$2,000,000	35	NL East	National League	Georgia
+Ichiro Suzuki	Marlins	Right field	$2,000,000	41	NL East	National League	Florida
+Mark Reynolds	Cardinals	First base	$2,000,000	31	NL Central	National League	Missouri
+David Hernandez	Diamondbacks	Relief pitcher	$2,000,000	29	NL West	National League	Arizona
+A.J. Pierzynski	Braves	Catcher	$2,000,000	38	NL East	National League	Georgia
+Kris Medlen	Royals	Starting pitcher	$2,000,000	29	AL Central	American League	Missouri
+Gordon Beckham	White Sox	Second base	$2,000,000	28	AL Central	American League	Illinois
+Brendan Ryan	Yankees	Shortstop	$2,000,000	33	AL East	American League	New York
+Jedd Gyorko	Padres	Second base	$2,000,000	26	NL West	National League	California
+Craig Breslow	Red Sox	Relief pitcher	$2,000,000	33	AL East	American League	Massachusetts
+Grady Sizemore	Phillies	Right field	$2,000,000	32	NL East	National League	Pennsylvania
+Carlos Villanueva	Cardinals	Relief pitcher	$2,000,000	31	NL Central	National League	Missouri
+Aaron Crow	Marlins	Relief pitcher	$1,975,000	28	NL East	National League	Florida
+Hector Noesi	White Sox	Starting pitcher	$1,950,000	28	AL Central	American League	Illinois
+Trevor Bauer	Indians	Starting pitcher	$1,940,000	24	AL Central	American League	Ohio
+Brett Lawrie	Athletics	Third base	$1,925,000	25	AL West	American League	California
+Sean Rodriguez	Pirates	Second base	$1,900,000	29	NL Central	National League	Pennsylvania
+Ruben Tejada	Mets	Shortstop	$1,880,000	25	NL East	National League	New York
+Franklin Morales	Royals	Relief pitcher	$1,850,000	29	AL Central	American League	Missouri
+Daniel Nava	Red Sox	Left field	$1,850,000	32	AL East	American League	Massachusetts
+Danny Espinosa	Nationals	Second base	$1,800,000	27	NL East	National League	Washington D.C.
+Anthony Rendon	Nationals	Third base	$1,800,000	24	NL East	National League	Washington D.C.
+Sam Fuld	Athletics	Left field	$1,750,000	33	AL West	American League	California
+Tony Watson	Pirates	Relief pitcher	$1,750,000	29	NL Central	National League	Pennsylvania
+Salvador Perez	Royals	Catcher	$1,750,000	24	AL Central	American League	Missouri
+Al Alburquerque	Tigers	Relief pitcher	$1,725,000	28	AL Central	American League	Michigan
+Raisel Iglesias	Reds	Relief pitcher	$1,714,286	25	NL Central	National League	Ohio
+Wesley Wright	Orioles	Relief pitcher	$1,700,000	30	AL East	American League	Maryland
+Danny Valencia	Blue Jays	Third base	$1,675,000	30	AL East	American League	Toronto
+Peter Bourjos	Cardinals	Center field	$1,650,000	28	NL Central	National League	Missouri
+Yonder Alonso	Padres	First base	$1,650,000	27	NL West	National League	California
+Jose Iglesias	Tigers	Shortstop	$1,650,000	25	AL Central	American League	Michigan
+Kelvin Herrera	Royals	Relief pitcher	$1,600,000	25	AL Central	American League	Missouri
+Craig Gentry	Athletics	Left field	$1,600,000	31	AL West	American League	California
+Jim Johnson	Braves	Relief pitcher	$1,600,000	31	NL East	National League	Georgia
+Jordan Schafer	Twins	Center field	$1,550,000	28	AL Central	American League	Minnesota
+Bryan Shaw	Indians	Relief pitcher	$1,550,000	27	AL Central	American League	Ohio
+Bryan Shaw	Indians	Relief pitcher	$1,550,000	27	AL Central	American League	Ohio
+Geovany Soto	White Sox	Catcher	$1,500,000	32	AL Central	American League	Illinois
+Kevin Gregg	Reds	Relief pitcher	$1,500,000	36	NL Central	National League	Ohio
+Matt Albers	White Sox	Relief pitcher	$1,500,000	32	AL Central	American League	Illinois
+Josh Tomlin	Indians	Starting pitcher	$1,500,000	30	AL Central	American League	Ohio
+Chad Billingsley	Phillies	Starting pitcher	$1,500,000	30	NL East	National League	Pennsylvania
+Daniel Descalso	Rockies	Second base	$1,500,000	28	NL West	National League	Colorado
+Jason Marquis	Reds	Starting pitcher	$1,500,000	36	NL Central	National League	Ohio
+Jeff Mathis	Marlins	Catcher	$1,500,000	32	NL East	National League	Florida
+Alexi Ogando	Red Sox	Relief pitcher	$1,500,000	31	AL East	American League	Massachusetts
+Kelly Johnson	Braves	Third base	$1,500,000	33	NL East	National League	Georgia
+Esmil Rogers	Yankees	Relief pitcher	$1,480,000	28	AL East	American League	New York
+Tim Collins	Royals	Relief pitcher	$1,475,000	25	AL Central	American League	Missouri
+Joaquin Arias	Giants	Second base	$1,450,000	30	NL West	National League	California
+John Mayberry Jr.	Mets	Right field	$1,450,000	31	NL East	National League	New York
+Josh Collmenter	Diamondbacks	Starting pitcher	$1,450,000	29	NL West	National League	Arizona
+Tom Wilhelmsen	Mariners	Relief pitcher	$1,400,000	31	AL West	American League	Washington
+Brayan Pena	Reds	Catcher	$1,400,000	33	NL Central	National League	Ohio
+David Phelps	Marlins	Starting pitcher	$1,400,000	28	NL East	National League	Florida
+Casey Fien	Twins	Relief pitcher	$1,375,000	31	AL Central	American League	Minnesota
+Dale Thayer	Padres	Relief pitcher	$1,375,000	34	NL West	National League	California
+Fernando Salas	Angels	Relief pitcher	$1,370,000	29	AL West	American League	California
+Starling Marte	Pirates	Left field	$1,333,333	26	NL Central	National League	Pennsylvania
+Cesar Ramos	Angels	Relief pitcher	$1,312,000	30	AL West	American League	California
+David Carpenter	Yankees	Relief pitcher	$1,300,000	28	AL East	American League	New York
+Charlie Furbush	Mariners	Relief pitcher	$1,300,000	28	AL West	American League	Washington
+Adam Ottavino	Rockies	Relief pitcher	$1,300,000	29	NL West	National League	Colorado
+Clint Barmes	Padres	Shortstop	$1,300,000	36	NL West	National League	California
+Martin Perez	Rangers	Starting pitcher	$1,250,000	24	AL West	American League	Texas
+Don Kelly	Marlins	Third base	$1,250,000	35	NL East	National League	Florida
+Jason Frasor	Royals	Relief pitcher	$1,250,000	37	AL Central	American League	Missouri
+Brennan Boesch	Reds	Right field	$1,250,000	29	NL Central	National League	Ohio
+Jarrod Dyson	Royals	Center field	$1,225,000	30	AL Central	American League	Missouri
+Chris Stewart	Pirates	Catcher	$1,225,000	33	NL Central	National League	Pennsylvania
+Jose Lobaton	Nationals	Catcher	$1,200,000	30	NL East	National League	Washington D.C.
+Rene Rivera	Rays	Catcher	$1,200,000	31	AL East	American League	Florida
+Chris Archer	Rays	Starting pitcher	$1,166,667	26	AL East	American League	Florida
+Julio Teheran	Braves	Starting pitcher	$1,166,667	24	NL East	National League	Georgia
+Vinnie Pestano	Angels	Relief pitcher	$1,150,000	30	AL West	American League	California
+Alexi Amarista	Padres	Shortstop	$1,150,000	25	NL West	National League	California
+Travis Ishikawa	Giants	Left field	$1,100,000	31	NL West	National League	California
+Logan Forsythe	Rays	Second base	$1,100,000	28	AL East	American League	Florida
+Michael McKenry	Rockies	Catcher	$1,088,000	30	NL West	National League	Colorado
+Fernando Abad	Athletics	Relief pitcher	$1,087,500	29	AL West	American League	California
+Yan Gomes	Indians	Catcher	$1,083,334	27	AL Central	American League	Ohio
+Eric Sogard	Athletics	Second base	$1,075,000	28	AL West	American League	California
+Jared Hughes	Pirates	Relief pitcher	$1,075,000	29	NL Central	National League	Pennsylvania
+Hank Conger	Astros	Catcher	$1,075,000	27	AL West	American League	Texas
+Ryan Flaherty	Orioles	Second base	$1,075,000	28	AL East	American League	Maryland
+Marwin Gonzalez	Astros	Shortstop	$1,062,500	26	AL West	American League	Texas
+Eduardo Nunez	Twins	Left field	$1,025,000	27	AL Central	American League	Minnesota
+Eric Young Jr.	Braves	Left field	$1,000,000	29	NL East	National League	Georgia
+Tyler Chatwood	Rockies	Starting pitcher	$1,000,000	25	NL West	National League	Colorado
+Josh Johnson	Padres	Starting pitcher	$1,000,000	31	NL West	National League	California
+Rafael Betancourt	Rockies	Relief pitcher	$1,000,000	39	NL West	National League	Colorado
+Reed Johnson	Nationals	Left field	$1,000,000	38	NL East	National League	Washington D.C.
+Radhames Liz	Pirates	Relief pitcher	$1,000,000	31	NL Central	National League	Pennsylvania
+Justin Maxwell	Giants	Right field	$1,000,000	31	NL West	National League	California
+Kyuji Fujikawa	Rangers	Relief pitcher	$1,000,000	34	AL West	American League	Texas
+Justin Smoak	Blue Jays	First base	$1,000,000	28	AL East	American League	Toronto
+Burke Badenhop	Reds	Relief pitcher	$1,000,000	32	NL Central	National League	Ohio
+Joba Chamberlain	Tigers	Relief pitcher	$1,000,000	29	AL Central	American League	Michigan
+Tom Gorzelanny	Tigers	Relief pitcher	$1,000,000	32	AL Central	American League	Michigan
+Jacob Turner	Cubs	Starting pitcher	$1,000,000	23	NL Central	National League	Illinois
+Joe Thatcher	Astros	Relief pitcher	$1,000,000	33	AL West	American League	Texas
+Collin Cowgill	Angels	Center field	$995,000	28	AL West	American League	California
+Francisco Cervelli	Pirates	Catcher	$987,500	29	NL Central	National League	Pennsylvania
+Drew Butera	Angels	Catcher	$987,500	31	AL West	American League	California
+Carlos Corporan	Rangers	Catcher	$975,000	31	AL West	American League	Texas
+Jeff Francoeur	Phillies	Right field	$950,000	31	NL East	National League	Pennsylvania
+Javy Guerra	White Sox	Relief pitcher	$937,500	29	AL Central	American League	Illinois
+Josh Outman	Braves	Relief pitcher	$925,000	30	NL East	National League	Georgia
+Scott Atchison	Indians	Relief pitcher	$900,000	39	AL Central	American League	Ohio
+Adam Rosales	Rangers	Second base	$900,000	31	AL West	American League	Texas
+Jonathan Herrera	Cubs	Second base	$900,000	30	NL Central	National League	Illinois
+Jarrod Parker	Athletics	Starting pitcher	$850,000	26	AL West	American League	California
+Ryan Madson	Royals	Relief pitcher	$850,000	34	AL Central	American League	Missouri
+Andres Blanco	Phillies	Second base	$850,000	30	NL East	National League	Pennsylvania
+Wil Nieves	Padres	Catcher	$850,000	37	NL West	National League	California
+Martin Maldonado	Brewers	Catcher	$825,000	28	NL Central	National League	Wisconsin
+Jeanmar Gomez	Phillies	Relief pitcher	$800,000	27	NL East	National League	Pennsylvania
+Hector Sanchez	Giants	Catcher	$800,000	25	NL West	National League	California
+Ernesto Frieri	Rays	Relief pitcher	$800,000	29	AL East	American League	Florida
+Daniel Hudson	Diamondbacks	Starting pitcher	$800,000	28	NL West	National League	Arizona
+Yasmani Grandal	Dodgers	Catcher	$792,000	26	NL West	National League	California
+Sean Doolittle	Athletics	Relief pitcher	$780,000	28	AL West	American League	California
+Tony Cruz	Cardinals	Catcher	$775,000	28	NL Central	National League	Missouri
+Blaine Boyer	Twins	Relief pitcher	$750,000	33	AL Central	American League	Minnesota
+Buddy Carlyle	Mets	Relief pitcher	$725,000	37	NL East	National League	New York
+Anthony Bass	Rangers	Relief pitcher	$725,000	27	AL West	American League	Texas
+Bobby Wilson	Rays	Catcher	$700,000	31	AL East	American League	Florida
+Chris Young	Royals	Relief pitcher	$675,000	35	AL Central	American League	Missouri
+Nate Jones	White Sox	Relief pitcher	$660,000	29	AL Central	American League	Illinois
+Erik Cordier	Giants	Relief pitcher	$650,000	29	NL West	National League	California
+Dustin McGowan	Phillies	Relief pitcher	$650,000	33	NL East	National League	Pennsylvania
+Jose Fernandez	Marlins	Starting pitcher	$635,000	22	NL East	National League	Florida
+Carlos Torres	Mets	Relief pitcher	$582,125	32	NL East	National League	New York
+Cesar Jimenez	Phillies	Relief pitcher	$575,000	30	NL East	National League	Pennsylvania
+Robbie Ross Jr.	Red Sox	Relief pitcher	$566,500	25	AL East	American League	Massachusetts
+Tommy Layne	Red Sox	Relief pitcher	$557,000	30	AL East	American League	Massachusetts
+Shane Robinson	Twins	Center field	$550,000	30	AL Central	American League	Minnesota
+Matt Harvey	Mets	Starting pitcher	$546,625	26	NL East	National League	New York
+Hector Rondon	Cubs	Relief pitcher	$544,000	27	NL Central	National League	Illinois
+Will Middlebrooks	Padres	Third base	$540,500	26	NL West	National League	California
+Brian Dozier	Twins	Second base	$540,000	27	AL Central	American League	Minnesota
+Jean Segura	Brewers	Shortstop	$534,000	25	NL Central	National League	Wisconsin
+Adam Warren	Yankees	Relief pitcher	$527,400	26	AL East	American League	New York
+Clint Robinson	Nationals	First base	$525,000	30	NL East	National League	Washington D.C.
+Joe Kelly	Red Sox	Starting pitcher	$523,000	26	AL East	American League	Massachusetts
+Alex Torres	Mets	Relief pitcher	$522,900	27	NL East	National League	New York
+Erasmo Ramirez	Rays	Starting pitcher	$522,800	24	AL East	American League	Florida
+Chris Withrow	Dodgers	Relief pitcher	$522,500	26	NL West	National League	California
+Shelby Miller	Braves	Starting pitcher	$521,000	24	NL East	National League	Georgia
+Trevor Rosenthal	Cardinals	Relief pitcher	$521,000	24	NL Central	National League	Missouri
+Evan Gattis	Astros	First base	$520,250	28	AL West	American League	Texas
+Samuel Deduno	Astros	Relief pitcher	$520,000	31	AL West	American League	Texas
+J.J. Hoover	Reds	Relief pitcher	$520,000	27	NL Central	National League	Ohio
+Aaron Thompson	Twins	Relief pitcher	$520,000	28	AL Central	American League	Minnesota
+Manny Machado	Orioles	Third base	$519,000	22	AL East	American League	Maryland
+Pete Kozma	Cardinals	Shortstop	$518,000	26	NL Central	National League	Missouri
+Rob Scahill	Pirates	Relief pitcher	$517,500	28	NL Central	National League	Pennsylvania
+Xander Bogaerts	Red Sox	Shortstop	$517,000	21	AL East	American League	Massachusetts
+Matt Adams	Cardinals	First base	$516,000	26	NL Central	National League	Missouri
+Jordy Mercer	Pirates	Shortstop	$515,500	28	NL Central	National League	Pennsylvania
+Jake Diekman	Phillies	Relief pitcher	$515,500	28	NL East	National League	Pennsylvania
+Andrew Lambo	Pirates	Right field	$515,500	26	NL Central	National League	Pennsylvania
+Arquimedes Caminero	Pirates	Relief pitcher	$515,500	27	NL Central	National League	Pennsylvania
+Cody Allen	Indians	Relief pitcher	$515,400	26	AL Central	American League	Ohio
+Tanner Scheppers	Rangers	Relief pitcher	$515,179	28	AL West	American League	Texas
+Tom Koehler	Marlins	Starting pitcher	$515,000	28	NL East	National League	Florida
+Patrick Corbin	Diamondbacks	Starting pitcher	$515,000	25	NL West	National League	Arizona
+J.B. Shuck	White Sox	Left field	$515,000	27	AL Central	American League	Illinois
+Wily Peralta	Brewers	Starting pitcher	$515,000	25	NL Central	National League	Wisconsin
+Anthony Varvaro	Red Sox	Relief pitcher	$515,000	29	AL East	American League	Massachusetts
+Justin Wilson	Yankees	Relief pitcher	$515,000	26	AL East	American League	New York
+Corey Kluber	Indians	Starting pitcher	$514,000	28	AL Central	American League	Ohio
+Mike Morin	Angels	Relief pitcher	$514,000	23	AL West	American League	California
+Justin De Fratus	Phillies	Relief pitcher	$513,000	27	NL East	National League	Pennsylvania
+Jeff Locke	Pirates	Starting pitcher	$513,000	27	NL Central	National League	Pennsylvania
+Matt den Dekker	Nationals	Center field	$512,972	27	NL East	National League	Washington D.C.
+Yoervis Medina	Mariners	Relief pitcher	$512,600	26	AL West	American League	Washington
+Gerrit Cole	Pirates	Starting pitcher	$512,500	24	NL Central	National League	Pennsylvania
+Tony Cingrani	Reds	Starting pitcher	$512,500	25	NL Central	National League	Ohio
+Oswaldo Arcia	Twins	Left field	$512,500	23	AL Central	American League	Minnesota
+Edgar Olmos	Mariners	Relief pitcher	$512,500	24	AL West	American League	Washington
+Paco Rodriguez	Dodgers	Relief pitcher	$512,500	23	NL West	National League	California
+Kristopher Negron	Reds	Second base	$512,500	29	NL Central	National League	Ohio
+Aaron Loup	Blue Jays	Relief pitcher	$512,400	27	AL East	American League	Toronto
+Zack Wheeler	Mets	Starting pitcher	$512,375	24	NL East	National League	New York
+Jim Henderson	Brewers	Relief pitcher	$512,000	32	NL Central	National League	Wisconsin
+Conor Gillaspie	White Sox	Third base	$512,000	27	AL Central	American League	Illinois
+Evan Marshall	Diamondbacks	Relief pitcher	$512,000	24	NL West	National League	Arizona
+Bryan Morris	Marlins	Relief pitcher	$511,500	28	NL East	National League	Florida
+Donovan Solano	Marlins	Second base	$511,500	27	NL East	National League	Florida
+Efren Navarro	Angels	First base	$511,000	28	AL West	American League	California
+Adam Eaton	White Sox	Center field	$511,000	26	AL Central	American League	Illinois
+Colt Hynes	Blue Jays	Relief pitcher	$510,800	29	AL East	American League	Toronto
+Danny Farquhar	Mariners	Relief pitcher	$510,800	28	AL West	American League	Washington
+David Lough	Orioles	Left field	$510,500	29	AL East	American League	Maryland
+Sandy Leon	Red Sox	Catcher	$510,400	26	AL East	American League	Massachusetts
+Erik Kratz	Royals	Catcher	$510,200	34	AL Central	American League	Missouri
+Nick Franklin	Rays	Shortstop	$510,200	24	AL East	American League	Florida
+Nick Vincent	Padres	Relief pitcher	$510,200	28	NL West	National League	California
+Brad Miller	Mariners	Shortstop	$510,100	25	AL West	American League	Washington
+Michael Wacha	Cardinals	Starting pitcher	$510,000	23	NL Central	National League	Missouri
+Chris Dominguez	Reds	Third base	$510,000	28	NL Central	National League	Ohio
+Will Harris	Astros	Relief pitcher	$510,000	30	AL West	American League	Texas
+Randall Delgado	Diamondbacks	Starting pitcher	$510,000	25	NL West	National League	Arizona
+Yimi Garcia	Dodgers	Relief pitcher	$510,000	24	NL West	National League	California
+A.J. Ramos	Marlins	Relief pitcher	$510,000	28	NL East	National League	Florida
+Gregorio Petit	Yankees	Shortstop	$510,000	30	AL East	American League	New York
+Kyle Hendricks	Cubs	Relief pitcher	$510,000	25	NL Central	National League	Illinois
+Jaff Decker	Pirates	Left field	$510,000	25	NL Central	National League	Pennsylvania
+Avisail Garcia	White Sox	Right field	$510,000	23	AL Central	American League	Illinois
+Zach Walters	Indians	Left field	$509,600	25	AL Central	American League	Ohio
+Carson Smith	Mariners	Relief pitcher	$509,500	25	AL West	American League	Washington
+Eddie Butler	Rockies	Starting pitcher	$509,500	24	NL West	National League	Colorado
+Phil Klein	Rangers	Relief pitcher	$509,500	25	AL West	American League	Texas
+Jurickson Profar	Rangers	Second base	$509,500	22	AL West	American League	Texas
+Brad Brach	Orioles	Relief pitcher	$509,500	28	AL East	American League	Maryland
+Roman Mendez	Rangers	Relief pitcher	$509,500	24	AL West	American League	Texas
+Rafael Ynoa	Rockies	Third base	$509,500	27	NL West	National League	Colorado
+Jose Alvarez	Angels	Relief pitcher	$509,500	25	AL West	American League	California
+Matt Duffy	Giants	First base	$509,000	24	NL West	National League	California
+Seth Maness	Cardinals	Relief pitcher	$509,000	26	NL Central	National League	Missouri
+Steve Geltz	Rays	Relief pitcher	$508,900	27	AL East	American League	Florida
+Erik Davis	Nationals	Relief pitcher	$508,900	28	NL East	National League	Washington D.C.
+Shae Simmons	Braves	Relief pitcher	$508,750	24	NL East	National League	Georgia
+Daniel Norris	Blue Jays	Starting pitcher	$508,700	21	AL East	American League	Toronto
+Dallas Keuchel	Astros	Starting pitcher	$508,700	27	AL West	American League	Texas
+Michael Taylor	Nationals	Center field	$508,700	24	NL East	National League	Washington D.C.
+Johnny Giavotella	Angels	Second base	$508,575	27	AL West	American League	California
+Matt Szczur	Cubs	Right field	$508,500	25	NL Central	National League	Illinois
+Edwin Escobar	Red Sox	Relief pitcher	$508,500	22	AL East	American League	Massachusetts
+Luis Jimenez	Brewers	Third base	$508,500	27	NL Central	National League	Wisconsin
+Michael Blazek	Brewers	Relief pitcher	$508,500	26	NL Central	National League	Wisconsin
+Cory Spangenberg	Padres	Second base	$508,500	24	NL West	National League	California
+Frank Garces	Padres	Relief pitcher	$508,500	25	NL West	National League	California
+Nick Ahmed	Diamondbacks	Shortstop	$508,500	25	NL West	National League	Arizona
+Jake Lamb	Diamondbacks	Third base	$508,500	24	NL West	National League	Arizona
+Lisalverto Bonilla	Rangers	Starting pitcher	$508,500	24	AL West	American League	Texas
+Tim Beckham	Rays	Shortstop	$508,100	25	AL East	American League	Florida
+Dallas Beeler	Cubs	Relief pitcher	$508,000	25	NL Central	National League	Illinois
+Jeremy Jeffress	Brewers	Relief pitcher	$507,600	27	NL Central	National League	Wisconsin
+John Lackey	Cardinals	Starting pitcher	$507,500	36	NL Central	National League	Missouri
+Jake Smolinski	Rangers	Left field	$507,500	26	AL West	American League	Texas
+Ryan Rua	Rangers	Left field	$507,500	25	AL West	American League	Texas
+Steven Wright	Red Sox	Relief pitcher	$507,500	29	AL East	American League	Massachusetts
+Delino DeShields	Rangers	Center field	$507,500	22	AL West	American League	Texas
+Jonathan Schoop	Orioles	Second base	$507,500	23	AL East	American League	Maryland
+Gregory Polanco	Pirates	Right field	$507,500	23	NL Central	National League	Pennsylvania
+Kennys Vargas	Twins	Designated hitter	$507,500	24	AL Central	American League	Minnesota
+Chris Herrmann	Twins	Right field	$507,500	27	AL Central	American League	Minnesota
+J.R. Graham	Twins	Relief pitcher	$507,500	25	AL Central	American League	Minnesota
+Antoan Richardson	Rangers	Right field	$507,500	31	AL West	American League	Texas
+Brandon Cumpton	Pirates	Starting pitcher	$507,500	26	NL Central	National League	Pennsylvania
+Jimmy Paredes	Orioles	Third base	$507,500	26	AL East	American League	Maryland
+Tony Sanchez	Pirates	Catcher	$507,500	26	NL Central	National League	Pennsylvania
+Justin Sellers	Pirates	Shortstop	$507,500	29	NL Central	National League	Pennsylvania
+Kevin Gausman	Orioles	Starting pitcher	$507,500	24	AL East	American League	Maryland
+Jason Garcia	Orioles	Relief pitcher	$507,500	22	AL East	American League	Maryland
+Steve Clevenger	Orioles	Catcher	$507,500	28	AL East	American League	Maryland
+Caleb Joseph	Orioles	Catcher	$507,500	28	AL East	American League	Maryland
+Danny Santana	Twins	Shortstop	$507,500	24	AL Central	American League	Minnesota
+Rougned Odor	Rangers	Second base	$507,500	21	AL West	American League	Texas
+Tommy Pham	Cardinals	Left field	$507,500	27	NL Central	National League	Missouri
+Logan Verrett	Rangers	Relief pitcher	$507,500	24	AL West	American League	Texas
+Keone Kela	Rangers	Relief pitcher	$507,500	21	AL West	American League	Texas
+Carlos Martinez	Cardinals	Relief pitcher	$507,500	23	NL Central	National League	Missouri
+Kevin Siegrist	Cardinals	Relief pitcher	$507,500	25	NL Central	National League	Missouri
+Kolten Wong	Cardinals	Second base	$507,500	24	NL Central	National League	Missouri
+Randal Grichuk	Cardinals	Right field	$507,500	23	NL Central	National League	Missouri
+Jace Peterson	Braves	Second base	$507,500	24	NL East	National League	Georgia
+Dellin Betances	Yankees	Relief pitcher	$507,500	27	AL East	American League	New York
+Chris Martin	Yankees	Relief pitcher	$507,500	28	AL East	American League	New York
+Chasen Shreve	Yankees	Relief pitcher	$507,500	23	AL East	American League	New York
+John Ryan Murphy	Yankees	Catcher	$507,500	23	AL East	American League	New York
+Didi Gregorius	Yankees	Shortstop	$507,500	25	AL East	American League	New York
+Brock Holt	Red Sox	Third base	$507,500	26	AL East	American League	Massachusetts
+Corey Dickerson	Rockies	Left field	$507,500	25	NL West	National League	Colorado
+Charlie Blackmon	Rockies	Center field	$507,500	28	NL West	National League	Colorado
+Robinson Chirinos	Rangers	Catcher	$507,500	30	AL West	American League	Texas
+DJ LeMahieu	Rockies	Second base	$507,500	26	NL West	National League	Colorado
+Charlie Culberson	Rockies	Third base	$507,500	25	NL West	National League	Colorado
+Shawn Tolleson	Rangers	Relief pitcher	$507,500	27	AL West	American League	Texas
+Tyler Matzek	Rockies	Starting pitcher	$507,500	24	NL West	National League	Colorado
+David Hale	Rockies	Relief pitcher	$507,500	27	NL West	National League	Colorado
+Christian Friedrich	Rockies	Starting pitcher	$507,500	27	NL West	National League	Colorado
+Brooks Brown	Rockies	Relief pitcher	$507,500	29	NL West	National League	Colorado
+Christian Bergman	Rockies	Starting pitcher	$507,500	26	NL West	National League	Colorado
+Christian Vazquez	Red Sox	Catcher	$507,500	23	AL East	American League	Massachusetts
+Mookie Betts	Red Sox	Second base	$507,500	21	AL East	American League	Massachusetts
+Jose Pirela	Yankees	Second base	$507,500	24	AL East	American League	New York
+Nolan Arenado	Rockies	Third base	$507,500	23	NL West	National League	Colorado
+Tyler Thornburg	Brewers	Relief pitcher	$507,500	26	NL Central	National League	Wisconsin
+Kyle Crockett	Indians	Relief pitcher	$507,500	23	AL Central	American League	Ohio
+Nick Hagadone	Indians	Relief pitcher	$507,500	29	AL Central	American League	Ohio
+T.J. House	Indians	Starting pitcher	$507,500	25	AL Central	American League	Ohio
+Zach McAllister	Indians	Starting pitcher	$507,500	27	AL Central	American League	Ohio
+Austin Adams	Indians	Relief pitcher	$507,500	28	AL Central	American League	Ohio
+Hector Gomez	Brewers	Shortstop	$507,500	27	NL Central	National League	Wisconsin
+Roberto Perez	Indians	Catcher	$507,500	26	AL Central	American League	Ohio
+Jose Ramirez	Indians	Shortstop	$507,500	22	AL Central	American League	Ohio
+Scooter Gennett	Brewers	Second base	$507,500	24	NL Central	National League	Wisconsin
+Wil Myers	Padres	Center field	$507,500	24	NL West	National League	California
+Yangervis Solarte	Padres	Third base	$507,500	27	NL West	National League	California
+Will Smith	Brewers	Relief pitcher	$507,500	25	NL Central	National League	Wisconsin
+Jimmy Nelson	Brewers	Starting pitcher	$507,500	25	NL Central	National League	Wisconsin
+Mike Fiers	Brewers	Starting pitcher	$507,500	29	NL Central	National League	Wisconsin
+Billy Hamilton	Reds	Center field	$507,500	24	NL Central	National League	Ohio
+Joe Panik	Giants	Second base	$507,500	24	NL West	National League	California
+Jean Machi	Giants	Relief pitcher	$507,500	33	NL West	National League	California
+George Kontos	Giants	Relief pitcher	$507,500	29	NL West	National League	California
+Kyle Drabek	White Sox	Starting pitcher	$507,500	27	AL Central	American League	Illinois
+Dan Jennings	White Sox	Relief pitcher	$507,500	27	AL Central	American League	Illinois
+Zach Putnam	White Sox	Relief pitcher	$507,500	27	AL Central	American League	Illinois
+Eric Surkamp	White Sox	Relief pitcher	$507,500	27	AL Central	American League	Illinois
+Jake Petricka	White Sox	Relief pitcher	$507,500	26	AL Central	American League	Illinois
+Micah Johnson	White Sox	Shortstop	$507,500	24	AL Central	American League	Illinois
+Jason Bourgeois	Reds	Center field	$507,500	33	NL Central	National League	Ohio
+Jumbo Diaz	Reds	Relief pitcher	$507,500	31	NL Central	National League	Ohio
+Derek Norris	Padres	Catcher	$507,500	26	NL West	National League	California
+Tim Federowicz	Padres	Catcher	$507,500	27	NL West	National League	California
+Yordano Ventura	Royals	Starting pitcher	$507,500	23	AL Central	American League	Missouri
+Christian Colon	Royals	Shortstop	$507,500	25	AL Central	American League	Missouri
+Tommy La Stella	Cubs	Second base	$507,500	26	NL Central	National League	Illinois
+Arismendy Alcantara	Cubs	Second base	$507,500	23	NL Central	National League	Illinois
+Paulo Orlando	Royals	Center field	$507,500	29	AL Central	American League	Missouri
+Neil Ramirez	Cubs	Relief pitcher	$507,500	25	NL Central	National League	Illinois
+Justin Grimm	Cubs	Starting pitcher	$507,500	26	NL Central	National League	Illinois
+Scott Van Slyke	Dodgers	Left field	$507,500	28	NL West	National League	California
+Joc Pederson	Dodgers	Center field	$507,500	22	NL West	National League	California
+Chris Hatcher	Dodgers	Relief pitcher	$507,500	30	NL West	National League	California
+Pedro Baez	Dodgers	Relief pitcher	$507,500	27	NL West	National League	California
+Kyle Gibson	Twins	Starting pitcher	$507,500	27	AL Central	American League	Minnesota
+Mike Olt	Cubs	Third base	$507,500	26	NL Central	National League	Illinois
+Jonathan Pettibone	Phillies	Starting pitcher	$507,500	24	NL East	National League	Pennsylvania
+Anthony Gose	Tigers	Center field	$507,500	24	AL Central	American League	Michigan
+Khris Davis	Brewers	Left field	$507,500	27	NL Central	National League	Wisconsin
+Logan Schafer	Brewers	Right field	$507,500	28	NL Central	National League	Wisconsin
+Odrisamer Despaigne	Padres	Starting pitcher	$507,500	28	NL West	National League	California
+Anthony DeSclafani	Reds	Starting pitcher	$507,500	24	NL Central	National League	Ohio
+Shane Greene	Tigers	Starting pitcher	$507,500	26	AL Central	American League	Michigan
+Angel Nesbitt	Tigers	Relief pitcher	$507,500	24	AL Central	American League	Michigan
+Ian Krol	Tigers	Relief pitcher	$507,500	23	AL Central	American League	Michigan
+Bruce Rondon	Tigers	Relief pitcher	$507,500	24	AL Central	American League	Michigan
+James McCann	Tigers	Catcher	$507,500	24	AL Central	American League	Michigan
+Nick Castellanos	Tigers	Third base	$507,500	23	AL Central	American League	Michigan
+Hernan Perez	Tigers	Shortstop	$507,500	24	AL Central	American League	Michigan
+Andrew Romine	Tigers	Shortstop	$507,500	29	AL Central	American League	Michigan
+Eduardo Escobar	Twins	Shortstop	$507,500	26	AL Central	American League	Minnesota
+Cesar Hernandez	Phillies	Third base	$507,500	24	NL East	National League	Pennsylvania
+Josh Fields	Astros	Relief pitcher	$507,500	29	AL West	American League	Texas
+Collin McHugh	Astros	Starting pitcher	$507,500	27	AL West	American League	Texas
+Brett Oberholtzer	Astros	Starting pitcher	$507,500	25	AL West	American League	Texas
+Brad Peacock	Astros	Starting pitcher	$507,500	27	AL West	American League	Texas
+Asher Wojciechowski	Astros	Starting pitcher	$507,500	26	AL West	American League	Texas
+Robbie Grossman	Astros	Left field	$507,500	25	AL West	American League	Texas
+Evan Scribner	Athletics	Relief pitcher	$507,500	29	AL West	American League	California
+Jake Marisnick	Astros	Left field	$507,500	24	AL West	American League	Texas
+Jonathan Villar	Astros	Shortstop	$507,500	23	AL West	American League	Texas
+George Springer	Astros	Right field	$507,500	25	AL West	American League	Texas
+Drew Pomeranz	Athletics	Starting pitcher	$507,500	26	AL West	American League	California
+Dan Otero	Athletics	Relief pitcher	$507,500	30	AL West	American League	California
+Josh Phegley	Athletics	Catcher	$507,500	27	AL West	American League	California
+Stephen Vogt	Athletics	Catcher	$507,500	30	AL West	American League	California
+Freddy Galvis	Phillies	Shortstop	$507,500	25	NL East	National League	Pennsylvania
+Mark Canha	Athletics	First base	$507,500	26	AL West	American League	California
+Cody Asche	Phillies	Third base	$507,500	24	NL East	National League	Pennsylvania
+Cameron Rupp	Phillies	Catcher	$507,500	26	NL East	National League	Pennsylvania
+Joey Terdoslavich	Braves	Right field	$507,500	26	NL East	National League	Georgia
+Taylor Thompson	Athletics	Relief pitcher	$507,500	27	AL West	American League	California
+Mario Hollands	Phillies	Relief pitcher	$507,500	26	NL East	National League	Pennsylvania
+Ken Giles	Phillies	Relief pitcher	$507,500	24	NL East	National League	Pennsylvania
+Luis Garcia	Phillies	Relief pitcher	$507,500	28	NL East	National League	Pennsylvania
+David Buchanan	Phillies	Starting pitcher	$507,500	25	NL East	National League	Pennsylvania
+Marcus Semien	Athletics	Shortstop	$507,500	24	AL West	American League	California
+Nate Freiman	Athletics	First base	$507,500	28	AL West	American League	California
+Kirk Nieuwenhuis	Mets	Left field	$507,500	27	NL East	National League	New York
+Juan Lagares	Mets	Center field	$507,500	26	NL East	National League	New York
+Wilmer Flores	Mets	Shortstop	$507,500	23	NL East	National League	New York
+Jarred Cosart	Marlins	Starting pitcher	$507,500	24	NL East	National League	Florida
+Cory Rasmus	Angels	Relief pitcher	$507,500	27	AL West	American League	California
+Matt Shoemaker	Angels	Starting pitcher	$507,500	28	AL West	American League	California
+Tyler Skaggs	Angels	Starting pitcher	$507,500	23	AL West	American League	California
+Drew Rucinski	Angels	Relief pitcher	$507,500	26	AL West	American League	California
+C.J. Cron	Angels	First base	$507,500	25	AL West	American League	California
+Taylor Featherston	Angels	Second base	$507,500	25	AL West	American League	California
+Kole Calhoun	Angels	Right field	$507,500	27	AL West	American League	California
+Sam Dyson	Marlins	Relief pitcher	$507,500	26	NL East	National League	Florida
+Brad Hand	Marlins	Starting pitcher	$507,500	25	NL East	National League	Florida
+Adeiny Hechavarria	Marlins	Shortstop	$507,500	25	NL East	National League	Florida
+Christian Yelich	Marlins	Center field	$507,500	23	NL East	National League	Florida
+Kendall Graveman	Athletics	Starting pitcher	$507,500	24	AL West	American League	California
+R.J. Alvarez	Athletics	Relief pitcher	$507,500	23	AL West	American League	California
+Anthony Recker	Mets	Catcher	$507,500	31	NL East	National League	New York
+Travis d'Arnaud	Mets	Catcher	$507,500	26	NL East	National League	New York
+Rafael Montero	Mets	Starting pitcher	$507,500	24	NL East	National League	New York
+Sean Gilmartin	Mets	Relief pitcher	$507,500	24	NL East	National League	New York
+Jeurys Familia	Mets	Relief pitcher	$507,500	25	NL East	National League	New York
+Josh Edgin	Mets	Relief pitcher	$507,500	28	NL East	National League	New York
+Sean Nolin	Athletics	Starting pitcher	$507,500	25	AL West	American League	California
+Jesse Hahn	Athletics	Starting pitcher	$507,500	25	AL West	American League	California
+A.J. Griffin	Athletics	Starting pitcher	$507,500	27	AL West	American League	California
+Sonny Gray	Athletics	Starting pitcher	$507,500	25	AL West	American League	California
+Jacob deGrom	Mets	Starting pitcher	$507,500	26	NL East	National League	New York
+Vic Black	Mets	Relief pitcher	$507,500	26	NL East	National League	New York
+Marcell Ozuna	Marlins	Left field	$507,500	24	NL East	National League	Florida
+Odubel Herrera	Phillies	Center field	$507,500	23	NL East	National League	Pennsylvania
+Nick Martinez	Rangers	Starting pitcher	$507,500	24	AL West	American League	Texas
+Chris Taylor	Mariners	Shortstop	$507,500	24	AL West	American League	Washington
+Carlos Sanchez	White Sox	Second base	$507,500	22	AL Central	American League	Illinois
+Jeff Beliveau	Rays	Relief pitcher	$507,500	28	AL East	American League	Florida
+Brad Boxberger	Rays	Relief pitcher	$507,500	26	AL East	American League	Florida
+Alex Colome	Rays	Starting pitcher	$507,500	26	AL East	American League	Florida
+Nate Karns	Rays	Relief pitcher	$507,500	27	AL East	American League	Florida
+Matt Andriese	Rays	Starting pitcher	$507,500	25	AL East	American League	Florida
+Mike Zunino	Mariners	Catcher	$507,500	24	AL West	American League	Washington
+Jesus Sucre	Mariners	Catcher	$507,500	26	AL West	American League	Washington
+Jake Odorizzi	Rays	Starting pitcher	$507,500	25	AL East	American League	Florida
+Andrew Chafin	Diamondbacks	Relief pitcher	$507,500	24	NL West	National League	Arizona
+Taijuan Walker	Mariners	Starting pitcher	$507,500	22	AL West	American League	Washington
+Andrew McKirahan	Braves	Relief pitcher	$507,500	25	NL East	National League	Georgia
+Archie Bradley	Diamondbacks	Starting pitcher	$507,500	22	NL West	National League	Arizona
+A.J. Pollock	Diamondbacks	Center field	$507,500	27	NL West	National League	Arizona
+David Peralta	Diamondbacks	Right field	$507,500	27	NL West	National League	Arizona
+Ender Inciarte	Diamondbacks	Center field	$507,500	24	NL West	National League	Arizona
+Chris Owings	Diamondbacks	Shortstop	$507,500	23	NL West	National League	Arizona
+Tuffy Gosewisch	Diamondbacks	Catcher	$507,500	31	NL West	National League	Arizona
+Oscar Hernandez	Diamondbacks	Catcher	$507,500	21	NL West	National League	Arizona
+Matt Stites	Diamondbacks	Relief pitcher	$507,500	24	NL West	National League	Arizona
+Cody Martin	Braves	Relief pitcher	$507,500	25	NL East	National League	Georgia
+Rubby De La Rosa	Diamondbacks	Starting pitcher	$507,500	26	NL West	National League	Arizona
+Jordan Pacheco	Diamondbacks	Catcher	$507,500	29	NL West	National League	Arizona
+Gerald Laird	Diamondbacks	Catcher	$507,500	35	NL West	National League	Arizona
+Chase Anderson	Diamondbacks	Starting pitcher	$507,500	27	NL West	National League	Arizona
+James Paxton	Mariners	Starting pitcher	$507,500	26	AL West	American League	Washington
+Tyler Moore	Nationals	First base	$507,500	28	NL East	National League	Washington D.C.
+Blake Treinen	Nationals	Relief pitcher	$507,500	26	NL East	National League	Washington D.C.
+Roberto Osuna	Blue Jays	Relief pitcher	$507,500	20	AL East	American League	Toronto
+Todd Redmond	Blue Jays	Relief pitcher	$507,500	29	AL East	American League	Toronto
+Christian Bethancourt	Braves	Catcher	$507,500	23	NL East	National League	Georgia
+Aaron Sanchez	Blue Jays	Starting pitcher	$507,500	22	AL East	American League	Toronto
+Marcus Stroman	Blue Jays	Starting pitcher	$507,500	23	AL East	American League	Toronto
+Devon Travis	Blue Jays	Second base	$507,500	24	AL East	American League	Toronto
+Steve Tolleson	Blue Jays	Second base	$507,500	31	AL East	American League	Toronto
+Kevin Pillar	Blue Jays	Left field	$507,500	26	AL East	American League	Toronto
+Dalton Pompey	Blue Jays	Center field	$507,500	22	AL East	American League	Toronto
+Phil Gosselin	Braves	Second base	$507,500	26	NL East	National League	Georgia
+Billy Burns	Athletics	Center field	$507,500	25	AL West	American League	California
+Tyler Ladendorf	Athletics	Shortstop	$507,500	27	AL West	American League	California
+Alex Wood	Braves	Starting pitcher	$507,500	24	NL East	National League	Georgia
+Miguel Castro	Blue Jays	Relief pitcher	$507,500	20	AL East	American League	Toronto
+Tanner Roark	Nationals	Starting pitcher	$507,500	28	NL East	National League	Washington D.C.
+Xavier Cedeno	Nationals	Relief pitcher	$507,500	28	NL East	National League	Washington D.C.
+Aaron Barrett	Nationals	Relief pitcher	$507,500	27	NL East	National League	Washington D.C.
+Kirby Yates	Rays	Relief pitcher	$507,500	28	AL East	American League	Florida
+Brandon Guyer	Rays	Left field	$507,500	29	AL East	American League	Florida
+Kevin Kiermaier	Rays	Right field	$507,500	24	AL East	American League	Florida
+Steven Souza Jr.	Rays	Center field	$507,500	25	AL East	American League	Florida
+Luis Avilan	Braves	Relief pitcher	$507,500	25	NL East	National League	Georgia
+Tyler Olson	Mariners	Relief pitcher	$507,500	25	AL West	American League	Washington
+Juan Jaime	Braves	Relief pitcher	$507,500	27	NL East	National League	Georgia
+Liam Hendriks	Blue Jays	Relief pitcher	$507,500	26	AL East	American League	Toronto
+Drew Hutchison	Blue Jays	Relief pitcher	$507,500	24	AL East	American League	Toronto
+Darin Ruf	Phillies	Right field	$507,500	28	NL East	National League	Pennsylvania
+
+Kris Bryant	CHN	3B	NL	2015	23	65000.00%	10.48%	0.275	0.369	0.488	13	4	0.089	58.1	58.1	0.317	5.96
+Matt Duffy	SFN	3B	NL	2015	24	61200.00%	9.95%	0.295	0.334	0.428	12	0	0.055	33.6	33.6	0.283	3.79
+Joc Pederson	LAN	CF	NL	2015	23	58500.00%	9.61%	0.21	0.346	0.417	4	7	0.056	32.5	32.5	0.287	1.44
+Jung-ho Kang	PIT	3B	NL	2015	28	46700.00%	7.43%	0.287	0.355	0.461	5	4	0.068	31.5	31.5	0.294	3.21
+Francisco Lindor	CLE	SS	AL	2015	21	43800.00%	7.17%	0.313	0.353	0.482	12	2	0.065	28.7	28.7	0.286	3.32
+Maikel Franco	PHI	3B	NL	2015	22	33500.00%	5.53%	0.28	0.343	0.497	1	0	0.084	28.1	28.1	0.305	2.13
+Carlos Correa	HOU	SS	AL	2015	20	43200.00%	7.11%	0.279	0.345	0.512	14	4	0.065	28	28	0.295	2.65
+Randal Grichuk	SLN	LF	NL	2015	23	35000.00%	5.70%	0.276	0.329	0.548	4	2	0.076	26.7	26.7	0.316	2.74
+Odubel Herrera	PHI	CF	NL	2015	23	53700.00%	8.87%	0.297	0.344	0.418	16	8	0.049	26.1	26.1	0.274	2.84
+Kyle Schwarber	CHN	LF	NL	2015	22	27300.00%	4.40%	0.246	0.355	0.487	3	3	0.08	21.9	21.9	0.307	2.12
+J.t. Realmuto	MIA	C	NL	2015	24	467	7.80%	0.259	0.29	0.406	8	4	0.043	20	20	0.26	2.09
+Billy Burns	OAK	CF	AL	2015	25	555	8.99%	0.294	0.334	0.392	26	8	0.034	19.1	19.1	0.265	1.07
+Enrique Hernandez	LAN	2B	NL	2015	23	218	3.58%	0.307	0.346	0.49	0	2	0.086	18.7	18.7	0.315	2.05
+Devon Travis	TOR	2B	AL	2015	24	238	3.82%	0.304	0.361	0.498	3	1	0.077	18.4	18.4	0.307	1.95
+Eddie Rosario	MIN	LF	AL	2015	23	474	7.88%	0.267	0.289	0.459	11	6	0.039	18.4	18.4	0.252	1.83
+Ketel Marte	SEA	SS	AL	2015	21	247	4.03%	0.283	0.351	0.402	8	4	0.074	18.4	18.4	0.289	2.23
+Miguel Sano	MIN	DH	AL	2015	22	335	5.57%	0.269	0.385	0.53	1	1	0.053	17.8	17.8	0.314	1.86
+Michael Conforto	NYN	LF	NL	2015	22	194	3.16%	0.27	0.335	0.506	0	1	0.086	16.7	16.7	0.315	1.91
+Delino Deshields	TEX	CF	AL	2015	22	492	7.95%	0.261	0.344	0.374	25	8	0.033	16.4	16.4	0.259	1.81
+Corey Seager	LAN	SS	NL	2015	21	113	1.86%	0.337	0.425	0.561	2	0	0.142	16	16	0.356	1.87
+Stephen Piscotty	SLN	LF	NL	2015	24	256	4.17%	0.305	0.359	0.494	2	1	0.061	15.5	15.5	0.314	1.11
+Cory Spangenberg	SDN	2B	NL	2015	24	345	5.73%	0.271	0.333	0.399	9	4	0.04	13.9	13.9	0.268	1.18
+Nick Ahmed	ARI	SS	NL	2015	25	459	7.31%	0.226	0.275	0.359	4	5	0.029	13.3	13.3	0.236	1.84
+Thomas Pham	SLN	CF	NL	2015	27	173	2.82%	0.268	0.347	0.477	2	0	0.074	12.8	12.8	0.298	1.04
+Kelby Tomlinson	SFN	2B	NL	2015	25	193	3.14%	0.303	0.358	0.404	5	4	0.066	12.7	12.7	0.294	1.24
+Aaron Altherr	PHI	LF	NL	2015	24	161	2.66%	0.241	0.338	0.489	6	2	0.077	12.4	12.4	0.3	1.29
+Mikie Mahtook	TBA	LF	AL	2015	25	115	1.89%	0.295	0.351	0.619	4	3	0.106	12.2	12.2	0.352	1.43
+Mark Canha	OAK	1B	AL	2015	26	485	7.86%	0.254	0.315	0.426	7	2	0.024	11.8	11.8	0.27	1.88
+Addison Russell	CHN	2B	NL	2015	21	523	8.44%	0.242	0.307	0.389	4	3	0.022	11.4	11.4	0.252	1.57
+Trayce Thompson	CHA	RF	AL	2015	24	135	2.22%	0.295	0.363	0.533	1	0	0.081	10.9	10.9	0.308	1.25
+Jake Lamb	ARI	3B	NL	2015	24	390	6.21%	0.263	0.331	0.386	3	2	0.028	10.8	10.8	0.263	2.29
+Justin Bour	MIA	1B	NL	2015	27	446	7.45%	0.262	0.321	0.479	0	0	0.024	10.7	10.7	0.289	0.74
+Clint Robinson	WAS	1B	NL	2015	30	352	5.75%	0.272	0.358	0.424	0	0	0.029	10.2	10.7	0.287	1.04
+Steven Souza	TBA	RF	AL	2015	26	426	7.02%	0.225	0.318	0.399	12	6	0.024	10.2	10.2	0.259	0.42
+Blake Swihart	BOS	C	AL	2015	23	309	4.95%	0.274	0.319	0.392	4	2	0.033	10.2	10.2	0.241	1.19
+Greg Bird	NYA	1B	AL	2015	22	178	2.84%	0.261	0.343	0.529	0	0	0.055	9.9	9.9	0.312	1.1
+Roberto Perez	CLE	C	AL	2015	26	226	3.70%	0.228	0.348	0.402	0	0	0.042	9.6	9.6	0.257	0.97
+Jarrett Parker	SFN	RF	NL	2015	26	54	0.88%	0.347	0.407	0.755	1	1	0.176	9.5	9.5	0.413	0.93
+Curtis Casali	TBA	C	AL	2015	26	113	1.86%	0.238	0.304	0.594	0	0	0.083	9.4	9.4	0.318	0.99
+Jace Peterson	ATL	2B	NL	2015	25	597	9.89%	0.239	0.314	0.335	12	10	0.016	9.4	9.4	0.251	0.97
+Tucker Barnhart	CIN	C	NL	2015	24	274	4.42%	0.252	0.324	0.326	0	1	0.033	9.1	9.1	0.245	1.11
+Adonis Garcia	ATL	3B	NL	2015	30	198	3.28%	0.277	0.293	0.497	0	0	0.046	9.1	9.1	0.287	0.82
+Jason Rogers	MIL	PH	NL	2015	27	169	2.81%	0.296	0.367	0.441	0	0	0.052	8.8	8.8	0.294	0.75
+Carlos Perez	ANA	C	AL	2015	24	283	4.72%	0.25	0.299	0.346	2	0	0.03	8.4	8.4	0.249	1.15
+Jorge Soler	CHN	RF	NL	2015	23	404	6.52%	0.262	0.324	0.399	3	1	0.019	7.7	7.7	0.263	-0.02
+Domingo Santana	MIL	CF	NL	2015	22	145	2.41%	0.231	0.345	0.421	2	0	0.053	7.7	7.7	0.299	0.69
+J.r. Murphy	NYA	C	AL	2015	24	172	2.74%	0.277	0.327	0.406	0	0	0.044	7.6	7.6	0.258	0.75
+Cameron Rupp	PHI	C	NL	2015	26	299	4.94%	0.233	0.301	0.374	0	1	0.025	7.6	7.6	0.242	0.76
+Jake Smolinski	OAK	LF	AL	2015	26	118	1.91%	0.226	0.288	0.462	0	1	0.059	7	7	0.295	0.56
+Ben Paulsen	COL	1B	NL	2015	27	354	5.83%	0.277	0.326	0.462	1	2	0.019	6.9	6.9	0.269	0.83
+Ivan De Jesus	CIN	PH	NL	2015	28	222	3.58%	0.244	0.311	0.373	0	2	0.027	6	6	0.259	0.88
+Shawn O'malley	SEA	CF	AL	2015	27	57	0.93%	0.262	0.418	0.357	3	0	0.102	5.8	5.8	0.32	0.57
+Travis Shaw	BOS	1B	AL	2015	25	248	3.98%	0.274	0.331	0.491	0	1	0.021	5.2	5.2	0.278	0.68
+Greg Garcia	SLN	PH	NL	2015	25	87	1.42%	0.24	0.337	0.387	0	0	0.059	5.1	5.1	0.278	0.43
+Paulo Orlando	KCA	RF	AL	2015	29	251	4.10%	0.249	0.269	0.444	3	3	0.02	5.1	5.1	0.254	0.48
+Kevin Plawecki	NYN	C	NL	2015	24	258	4.20%	0.219	0.28	0.296	0	0	0.019	4.9	4.9	0.241	0.55
+Preston Tucker	HOU	LF	AL	2015	24	323	5.32%	0.243	0.297	0.437	0	2	0.015	4.7	4.7	0.261	0.45
+Slade Heathcott	NYA	RF	AL	2015	24	30	0.48%	0.4	0.429	0.72	0	1	0.152	4.6	4.6	0.386	0.53
+Noah Syndergaard	NYN	P	NL	2015	22	50	0.81%	0.209	0.227	0.302	0	0	0.086	4.3	14.4	0.21	1.42
+Ramon Cabrera	CIN	C	NL	2015	25	30	0.48%	0.367	0.367	0.5	0	0	0.142	4.2	4.2	0.362	0.46
+Michael Taylor	WAS	CF	NL	2015	24	511	8.35%	0.229	0.282	0.358	16	3	0.008	3.9	3.9	0.24	0.91
+Adam Duvall	CIN	LF	NL	2015	26	72	1.16%	0.219	0.306	0.484	0	0	0.052	3.8	3.8	0.286	0.36
+Michael Lorenzen	CIN	P	NL	2015	23	41	0.66%	0.25	0.27	0.306	0	0	0.087	3.6	4.1	0.224	0.35
+Joey Gallo	TEX	LF	AL	2015	21	123	1.99%	0.204	0.301	0.417	3	0	0.029	3.5	3.5	0.246	0.24
+Alex Guerrero	LAN	PH	NL	2015	28	230	3.78%	0.233	0.261	0.434	1	0	0.014	3.3	3.3	0.253	0.15
+Taylor Jungmann	MIL	P	NL	2015	25	44	0.73%	0.27	0.289	0.324	0	0	0.075	3.3	13.1	0.222	1.4
+Scott Schebler	LAN	PH	NL	2015	24	40	0.66%	0.25	0.325	0.5	2	1	0.082	3.3	3.3	0.325	0.42
+Daniel Castro	ATL	2B	NL	2015	22	100	1.66%	0.24	0.263	0.344	0	0	0.032	3.2	3.2	0.232	0.3
+James Mccann	DET	C	AL	2015	25	425	6.90%	0.264	0.297	0.387	0	1	0.007	3	3	0.23	0.1
+Tyler Collins	DET	LF	AL	2015	25	207	3.36%	0.266	0.316	0.417	2	1	0.014	2.9	2.9	0.255	0.2
+Christian Colon	KCA	SS	AL	2015	26	119	1.95%	0.29	0.356	0.336	3	2	0.024	2.9	2.9	0.249	0.33
+Dilson Herrera	NYN	2B	NL	2015	21	103	1.68%	0.211	0.311	0.367	2	0	0.027	2.8	2.8	0.259	0.51
+Andrew Susac	SFN	C	NL	2015	25	148	2.41%	0.218	0.297	0.368	0	0	0.018	2.7	2.7	0.254	0.34
+Tim Beckham	TBA	2B	AL	2015	25	223	3.67%	0.222	0.274	0.429	3	1	0.012	2.6	2.6	0.254	0.02
+Max Stassi	HOU	C	AL	2015	24	17	0.28%	0.4	0.438	0.6	0	0	0.148	2.5	2.5	0.34	0.26
+Joey Butler	TBA	DH	AL	2015	29	276	4.55%	0.276	0.326	0.416	5	2	0.008	2.2	2.2	0.253	0.29
+Peter O'brien	ARI	PH	NL	2015	24	12	0.19%	0.4	0.5	0.8	0	0	0.172	2.1	2.1	0.433	0.21
+Dariel Alvarez	BAL	RF	AL	2015	26	31	0.52%	0.241	0.29	0.379	0	0	0.064	2	2	0.251	0.2
+David Holmberg	CIN	P	NL	2015	23	12	0.19%	0.125	0.364	0.125	0	0	0.16	1.9	-6.2	0.236	-0.72
+Socrates Brito	ARI	PH	NL	2015	22	34	0.54%	0.303	0.324	0.455	1	0	0.056	1.9	1.9	0.268	0.27
+Chris Dominguez	CIN	PH	NL	2015	28	23	0.37%	0.261	0.261	0.522	0	0	0.081	1.9	1.9	0.274	0.19
+Richie Shaffer	TBA	1B	AL	2015	24	88	1.45%	0.189	0.307	0.392	0	1	0.021	1.8	1.8	0.266	0.15
+Jefry Marte	DET	1B	AL	2015	24	90	1.46%	0.213	0.284	0.413	0	0	0.02	1.8	1.8	0.25	0.22
+Daniel Norris	DET	P	AL	2015	22	3	0.05%	0.5	0.667	2	0	0	0.591	1.8	2.1	0.771	0.23
+Tom Murphy	COL	C	NL	2015	24	39	0.64%	0.257	0.333	0.543	0	0	0.045	1.7	1.7	0.281	0.18
+Jackson Williams	SFN	C	NL	2015	29	14	0.23%	0.2	0.429	0.3	1	0	0.12	1.7	1.7	0.314	0.2
+Anthony Desclafani	CIN	P	NL	2015	25	64	1.03%	0.155	0.194	0.172	0	0	0.024	1.5	21.7	0.151	2.19
+Trea Turner	WAS	2B	NL	2015	22	44	0.72%	0.225	0.295	0.325	2	2	0.034	1.5	1.5	0.259	0.19
+Matt Wisler	ATL	P	NL	2015	22	36	0.60%	0.138	0.194	0.138	0	0	0.04	1.4	-3	0.159	-0.29
+Jamie Romak	ARI	PH	NL	2015	29	16	0.25%	0.333	0.375	0.467	0	0	0.088	1.4	1.4	0.297	0.13
+Tim Cooney	SLN	P	NL	2015	24	11	0.18%	0.3	0.3	0.4	0	0	0.126	1.4	6.1	0.218	0.66
+Colin Rea	SDN	P	NL	2015	24	12	0.20%	0.222	0.3	0.333	0	0	0.112	1.3	3.8	0.248	0.43
+Ryan Brett	TBA	2B	AL	2015	23	4	0.07%	0.667	0.75	1	0	0	0.334	1.3	1.3	0.575	0.14
+Jake Smolinski	TEX	LF	AL	2015	26	74	1.20%	0.133	0.27	0.2	1	0	0.018	1.3	1.3	0.204	0.15
+Chris Heston	SFN	P	NL	2015	27	58	0.94%	0.196	0.196	0.235	0	0	0.023	1.3	1	0.159	0.13
+Nate Karns	TBA	P	AL	2015	27	5	0.08%	0.25	0.25	1	0	0	0.252	1.3	17.7	0.376	1.85
+Yasmany Tomas	ARI	RF	NL	2015	24	426	6.79%	0.273	0.305	0.401	5	2	0.003	1.3	1.3	0.246	-0.09
+Sugar Ray Marimon	ATL	P	NL	2015	26	7	0.12%	0.333	0.429	0.333	0	0	0.163	1.1	-3	0.292	-0.37
+Adam Morgan	PHI	P	NL	2015	25	27	0.45%	0.077	0.077	0.115	0	0	0.042	1.1	3.9	0.138	0.37
+Branden Pinder	NYA	P	AL	2015	26	1	0.02%	1	1	2	0	0	1.119	1.1	1.7	1.114	0.18
+Rico Noel	NYA	RF	AL	2015	26	2	0.03%	0.5	0.5	0.5	5	2	0.552	1.1	1.1	0.304	0.12
+Sean Gilmartin	NYN	P	NL	2015	25	6	0.10%	0.333	0.333	0.333	0	0	0.182	1.1	9.8	0.246	1.01
+Jett Bandy	ANA	C	AL	2015	25	2	0.03%	0.5	0.5	2	0	0	0.533	1.1	1.1	0.77	0.11
+Bryan Anderson	OAK	C	AL	2015	28	8	0.13%	0.4	0.429	0.4	0	0	0.131	1.1	1.1	0.37	0.11
+Alec Asher	PHI	P	NL	2015	23	6	0.10%	0.333	0.333	0.5	0	0	0.171	1	-2.7	0.333	-0.31
+Cody Stanley	SLN	PH	NL	2015	26	10	0.16%	0.4	0.4	0.5	0	0	0.097	1	1	0.317	0.1
+Ramon Flores	NYA	LF	AL	2015	23	33	0.53%	0.219	0.219	0.25	0	0	0.028	0.9	0.9	0.192	0.15
+Mason Williams	NYA	CF	AL	2015	23	22	0.35%	0.286	0.318	0.571	0	0	0.042	0.9	0.9	0.3	0.08
+Ronald Torreyes	LAN	2B	NL	2015	22	8	0.13%	0.333	0.429	0.5	0	0	0.11	0.9	0.9	0.328	0.1
+Hector Olivera	ATL	3B	NL	2015	30	87	1.44%	0.253	0.31	0.405	0	0	0.01	0.9	0.9	0.261	-0.2
+Adam Conley	MIA	P	NL	2015	25	22	0.37%	0.222	0.222	0.222	0	0	0.039	0.9	6.2	0.187	0.73
+Steven Matz	NYN	P	NL	2015	24	14	0.23%	0.286	0.286	0.357	0	0	0.061	0.8	4.8	0.221	0.55
+Dustin Garneau	COL	C	NL	2015	27	76	1.25%	0.157	0.224	0.286	0	0	0.01	0.8	0.8	0.205	0.08
+Austin Barnes	LAN	C	NL	2015	25	37	0.61%	0.207	0.361	0.276	1	0	0.02	0.7	0.7	0.257	0.08
+Trevor May	MIN	P	AL	2015	25	3	0.05%	0	0	0	0	0	0.24	0.7	17.1	-0.008	1.8
+Eury Perez	ATL	LF	NL	2015	25	133	2.20%	0.269	0.331	0.303	3	1	0.005	0.7	0.7	0.229	0.12
+Shane Peterson	MIL	PH	NL	2015	27	226	3.75%	0.259	0.324	0.353	0	1	0.003	0.7	0.7	0.247	0.15
+Andrew Mckirahan	ATL	P	NL	2015	25	1	0.02%	0	0	0	0	0	0.68	0.7	4.1	-0.006	0.41
+Michael Blazek	MIL	P	NL	2015	26	4	0.07%	0.25	0.25	0.5	0	0	0.165	0.7	7.7	0.308	0.92
+Jon Moscot	CIN	P	NL	2015	23	4	0.06%	0.25	0.25	0.25	0	0	0.164	0.7	0.3	0.18	0.05
+Darrell Ceciliani	NYN	PH	NL	2015	25	75	1.22%	0.206	0.27	0.279	5	1	0.009	0.6	0.6	0.243	0.13
+Domingo Santana	HOU	RF	AL	2015	22	42	0.69%	0.256	0.31	0.462	2	1	0.015	0.6	0.6	0.256	0.04
+Jaff Decker	PIT	PH	NL	2015	25	36	0.57%	0.214	0.371	0.321	0	0	0.017	0.6	0.5	0.274	0.04
+Donn Roach	CHN	P	NL	2015	25	1	0.02%	1	1	1	0	0	0.619	0.6	1	0.75	0.1
+Keith Hessler	ARI	P	NL	2015	26	1	0.02%	1	1	1	0	0	0.603	0.6	-2.7	0.733	-0.28
+Mike Wright	BAL	P	AL	2015	25	3	0.05%	0.5	0.5	0.5	0	0	0.199	0.6	-1.8	0.365	-0.24
+Zachary Godley	ARI	P	NL	2015	25	10	0.16%	0.111	0.111	0.111	0	0	0.054	0.5	0.9	0.107	0.09
+Jose Peraza	LAN	2B	NL	2015	21	25	0.41%	0.182	0.25	0.318	3	0	0.021	0.5	0.5	0.224	0.12
+Joshua Osich	SFN	P	NL	2015	26	3	0.05%	0	0	0	0	0	0.171	0.5	0.5	0.195	0.04
+Josh Smith	CIN	P	NL	2015	27	10	0.16%	0.222	0.222	0.444	0	0	0.051	0.5	-1.2	0.221	-0.19
+Steven Wright	BOS	P	AL	2015	30	2	0.03%	0	0	0	0	0	0.24	0.5	-0.2	0.131	0.11
+Jerad Eickhoff	PHI	P	NL	2015	24	16	0.26%	0.143	0.143	0.143	0	0	0.027	0.4	7.7	0.136	0.81
+Phillippe Aumont	PHI	P	NL	2015	26	1	0.02%	0	1	0	0	0	0.431	0.4	-2	0.557	-0.21
+Cole Figueroa	NYA	3B	AL	2015	28	8	0.13%	0.25	0.25	0.5	0	0	0.052	0.4	0.4	0.263	0.04
+Trevor Brown	SFN	C	NL	2015	23	43	0.70%	0.231	0.279	0.308	1	1	0.009	0.4	0.4	0.225	0.03
+Tyler Ladendorf	OAK	LF	AL	2015	27	18	0.29%	0.235	0.278	0.353	0	0	0.021	0.4	0.4	0.24	0.03
+Byron Buxton	MIN	CF	AL	2015	21	138	2.29%	0.209	0.25	0.326	2	2	0.003	0.4	0.4	0.214	0.66
+Terrance Gore	KCA	LF	AL	2015	24	4	0.07%	0	0.25	0	3	0	0.089	0.4	0.4	0.147	0.02
+Travis Jankowski	SDN	CF	NL	2015	24	96	1.59%	0.211	0.245	0.344	2	1	0.004	0.3	0.3	0.234	-0.06
+Travis Tartamella	SLN	C	NL	2015	27	2	0.03%	0.5	0.5	0.5	0	0	0.167	0.3	0.3	0.388	0.04
+Sammy Solis	WAS	P	NL	2015	26	2	0.03%	0.5	0.5	0.5	0	0	0.162	0.3	3.4	0.349	0.39
+Eric Fryer	MIN	C	AL	2015	29	27	0.45%	0.227	0.37	0.318	0	0	0.012	0.3	0.3	0.248	0.02
+Manny Banuelos	ATL	P	NL	2015	24	7	0.12%	0	0	0	0	0	0.044	0.3	-1.1	0.161	-0.17
+Pedro Villarreal	CIN	P	NL	2015	27	6	0.10%	0.167	0.167	0.333	0	0	0.05	0.3	-0.4	0.178	-0.18
+Jose Urena	MIA	P	NL	2015	23	13	0.22%	0.077	0.077	0.077	0	0	0.022	0.3	-5.3	0.052	-0.48
+Matthew Duffy	HOU	PH	AL	2015	26	9	0.15%	0.375	0.444	0.5	0	0	0.031	0.3	0.3	0.333	0.05
+Deven Marrero	BOS	3B	AL	2015	24	56	0.90%	0.226	0.268	0.283	2	1	0.005	0.3	0.3	0.202	0
+Scott Copeland	TOR	P	AL	2015	27	1	0.02%	0	0	0	0	0	0.245	0.2	1.1	-0.034	0.15
+Carlos Rodon	CHA	P	AL	2015	22	3	0.05%	0	0	0	0	0	0.074	0.2	16.2	0.198	1.8
+Jason Garcia	BAL	P	AL	2015	22	1	0.02%	0	1	0	0	0	0.222	0.2	0.1	0.513	-0.03
+Henry Owens	BOS	P	AL	2015	22	2	0.03%	0	0	0	0	0	0.111	0.2	6.8	-0.034	0.68
+Severino Gonzalez	PHI	P	NL	2015	22	12	0.20%	0.1	0.182	0.1	0	0	0.018	0.2	1.9	0.135	0.17
+Jorge Polanco	MIN	SS	AL	2015	21	12	0.20%	0.3	0.417	0.3	1	0	0.018	0.2	0.2	0.27	0.04
+Pat Venditte	OAK	P	AL	2015	30	1	0.02%	0	0	0	0	0	0.216	0.2	-0.7	0.004	-0.07
+Buck Farmer	DET	P	AL	2015	24	4	0.06%	0.25	0.25	0.25	0	0	0.047	0.2	-8	0.193	-0.88
+Rob Refsnyder	NYA	2B	AL	2015	24	47	0.75%	0.302	0.348	0.512	2	0	0.004	0.2	0.2	0.268	0.13
+Erik Goeddel	NYN	P	NL	2015	26	1	0.02%	0	0	0	0	0	0.182	0.2	4.4	-0.001	0.42
+Dalton Pompey	TOR	CF	AL	2015	22	103	1.65%	0.223	0.291	0.372	5	1	0.002	0.2	0.2	0.233	-0.01
+Erik Cordier	MIA	P	NL	2015	29	1	0.02%	0	0	0	0	0	0.163	0.2	-0.7	0.283	-0.08
+Bryan Mitchell	NYA	P	AL	2015	24	1	0.02%	0	0	0	0	0	0.161	0.2	1.9	-0.02	0.2
+Cheslor Cuthbert	KCA	3B	AL	2015	22	50	0.82%	0.217	0.28	0.37	0	0	0.003	0.1	0.1	0.236	0.12
+Pedro Severino	WAS	C	NL	2015	21	4	0.07%	0.25	0.25	0.5	0	0	0.028	0.1	0.1	0.233	0.02
+Daniel Fields	DET	LF	AL	2015	24	3	0.05%	0.333	0.333	0.667	0	0	0.037	0.1	0.1	0.327	0.01
+Garin Cecchini	BOS	1B	AL	2015	24	4	0.06%	0	0	0	0	0	0.027	0.1	0.1	0.042	0.01
+Cody Martin	ATL	P	NL	2015	25	1	0.02%	0	0	0	0	0	0.091	0.1	-1.1	0.314	-0.14
+Jake Brigham	ATL	P	NL	2015	27	2	0.03%	0	0	0	0	0	0.044	0.1	1	0.132	0.06
+Darnell Sweeney	PHI	PH	NL	2015	24	98	1.62%	0.176	0.286	0.353	0	2	0.001	0.1	0.1	0.239	-0.28
+Casey Sadler	PIT	P	NL	2015	24	2	0.03%	0	0	0	0	0	0.031	0.1	0.1	0.148	0.02
+Doug Bernier	MIN	2B	AL	2015	35	6	0.10%	0.2	0.333	0.4	0	0	0.007	0	0	0.268	0.01
+Chris Bassitt	OAK	P	AL	2015	26	2	0.03%	0	0	0	0	0	0.009	0	7.1	-0.029	0.76
+Matt Hague	TOR	PH	AL	2015	29	15	0.24%	0.25	0.4	0.333	0	0	0	0	0	0.236	0.02
+A.j. Achter	MIN	P	AL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.33
+A.j. Schugel	ARI	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.31
+Aaron Barrett	WAS	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.79
+Aaron Sanchez	TOR	P	AL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	-0.17
+Aaron Thompson	MIN	P	AL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	0.1
+Abel De Los Santos	WAS	P	NL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	-0.05
+Adrian Houser	MIL	P	NL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	-0.04
+Alex Colome	TBA	P	AL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.94
+Alex Meyer	MIN	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.23
+Andrew Faulkner	TEX	P	AL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	-0.01
+Angel Castro	OAK	P	AL	2015	32	0	0.00%	0	0	0	0	0	0	0	0	0	0.01
+Angel Nesbitt	DET	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	-0.22
+Arodys Vizcaino	ATL	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.79
+Arquimedes Caminero	PIT	P	NL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	0.53
+Bo Schultz	TOR	P	AL	2015	29	0	0.00%	0	0	0	0	0	0	0	0	0	-0.05
+Bobby Lafromboise	PIT	P	NL	2015	29	0	0.00%	0	0	0	0	0	0	0	0	0	0.03
+Brandon Cunniff	ATL	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.25
+Brett Bochy	SFN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.07
+Brian Ellington	MIA	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.1
+Brooks Brown	COL	P	NL	2015	30	0	0.00%	0	0	0	0	0	0	0	0	0	-0.2
+Bruce Rondon	DET	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.23
+Caleb Cotham	NYA	P	AL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.06
+Cam Bedrosian	ANA	P	AL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	-0.05
+Carlos Contreras	CIN	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	-0.28
+Carson Smith	SEA	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	1.94
+Chasen Shreve	NYA	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.15
+Chaz Roe	BAL	P	AL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	0.2
+Chris Martin	NYA	P	AL	2015	29	0	0.00%	0	0	0	0	0	0	0	0	0	0.13
+Chris Rearick	SDN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.28
+Chris Reed	MIA	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.01
+Cody Hall	SFN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.05
+Colton Murray	PHI	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.01
+Corey Knebel	MIL	P	NL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	0.32
+Cory Mazzoni	SDN	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.29
+Dalier Hinojosa	PHI	P	NL	2015	29	0	0.00%	0	0	0	0	0	0	0	0	0	0.41
+Daniel Winkler	ATL	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.17
+Danny Burawa	ATL	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.19
+Dario Alvarez	NYN	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.29
+David Carpenter	ATL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.14
+Drew Rucinski	ANA	P	AL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.1
+Drew Verhagen	DET	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	-0.2
+Enrique Burgos	ARI	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.41
+Evan Marshall	ARI	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.12
+Felipe Rivero	WAS	P	NL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	0.47
+Frank Garces	SDN	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.66
+Guido Knudson	DET	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.65
+Hansel Robles	NYN	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.04
+Heath Hembree	BOS	P	AL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.02
+Ian Thomas	ATL	P	NL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	-0.06
+J.c. Ramirez	ARI	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.22
+J.r. Graham	MIN	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.22
+Jack Leathersich	NYN	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.19
+Jairo Diaz	COL	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.06
+James Pazos	NYA	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.1
+Jason Gurka	COL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.19
+Jay Jackson	SDN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.09
+Jeff Beliveau	TBA	P	AL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	-0.03
+John Cornely	ATL	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.24
+Jon Edwards	SDN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.19
+Jon Edwards	TEX	P	AL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.3
+Jorge Rondon	COL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.08
+Jose Alvarez	ANA	P	AL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.44
+Jose Dominguez	TBA	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.12
+Jose Ramirez	NYA	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.08
+Josh Ravin	LAN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.11
+Juan Jaime	ATL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.11
+Jumbo Diaz	CIN	P	NL	2015	31	0	0.00%	0	0	0	0	0	0	0	0	0	0.33
+Junior Guerra	CHA	P	AL	2015	30	0	0.00%	0	0	0	0	0	0	0	0	0	-0.06
+Ken Giles	PHI	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	1.95
+Kendall Graveman	OAK	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.28
+Kenneth Roberts	COL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.2
+Kenneth Roberts	PHI	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.03
+Keone Kela	TEX	P	AL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	1.09
+Kirby Yates	TBA	P	AL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	-0.77
+Kyle Barraclough	MIA	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	0.23
+Kyle Crockett	CLE	P	AL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	0.03
+Leonel Campos	SDN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.02
+Logan Verrett	TEX	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.08
+Luis Garcia	PHI	P	NL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	0.93
+Marco Gonzales	SLN	P	NL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	-0.05
+Marcos Mateo	SDN	P	NL	2015	31	0	0.00%	0	0	0	0	0	0	0	0	0	0.02
+Marcus Hatley	SLN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.05
+Matt Boyd	DET	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	-0.24
+Matt Grace	WAS	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.3
+Matt Marksberry	ATL	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	-0.42
+Matt Stites	ARI	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.21
+Matthew West	LAN	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.04
+Mayckol Guaipe	SEA	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	-0.23
+Michael Broadway	SFN	P	NL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	-0.14
+Michael Feliz	HOU	P	AL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	-0.11
+Michael Tonkin	MIN	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	0.13
+Miguel Almonte	KCA	P	AL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	-0.31
+Miguel Castro	COL	P	NL	2015	20	0	0.00%	0	0	0	0	0	0	0	0	0	-0.31
+Mychal Givens	BAL	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	0.97
+Nefi Ogando	PHI	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.08
+Neil Ramirez	CHN	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.14
+Nick Goody	NYA	P	AL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	-0.02
+Nick Greenwood	SLN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.15
+Nick Rumbelow	NYA	P	AL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	0.25
+Oliver Drake	BAL	P	AL	2015	28	0	0.00%	0	0	0	0	0	0	0	0	0	0.27
+Pedro Baez	LAN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.73
+Preston Guilmet	MIL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.23
+Rafael Martin	WAS	P	NL	2015	31	0	0.00%	0	0	0	0	0	0	0	0	0	-0.06
+Raudel Lazo	MIA	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.03
+Rob Rasmussen	SEA	P	AL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.02
+Roberto Osuna	TOR	P	AL	2015	20	0	0.00%	0	0	0	0	0	0	0	0	0	1.35
+Roman Mendez	BOS	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	-0.07
+Roman Mendez	TEX	P	AL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.03
+Ryan Kelly	ATL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.75
+Ryan Tepera	TOR	P	AL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.29
+Sam Tuivailala	SLN	P	NL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	0.08
+Scott Mcgough	MIA	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	0.07
+Scott Oberg	COL	P	NL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.81
+Seth Rosin	PHI	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	-0.15
+Silvino Bracho	ARI	P	NL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	0.07
+Simon Castro	COL	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.17
+Spencer Patton	TEX	P	AL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	-0.34
+Steven Geltz	TBA	P	AL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.2
+Stolmy Pimentel	TEX	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	0.06
+Taylor Hill	WAS	P	NL	2015	26	0	0.00%	0	0	0	0	0	0	0	0	0	0.09
+Tom Layne	BOS	P	AL	2015	30	0	0.00%	0	0	0	0	0	0	0	0	0	0.23
+Trevor Gott	ANA	P	AL	2015	22	0	0.00%	0	0	0	0	0	0	0	0	0	0.05
+Tyler Olson	SEA	P	AL	2015	25	0	0.00%	0	0	0	0	0	0	0	0	0	-0.03
+Vincent Velasquez	HOU	P	AL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	0.82
+Yhonathan Barrios	MIL	P	NL	2015	23	0	0.00%	0	0	0	0	0	0	0	0	0	0.2
+Yimi Garcia	LAN	P	NL	2015	24	0	0.00%	0	0	0	0	0	0	0	0	0	0.54
+Zac Rosscup	CHN	P	NL	2015	27	0	0.00%	0	0	0	0	0	0	0	0	0	0.03
+Williams Perez	ATL	P	NL	2015	24	34	0.56%	0.071	0.133	0.071	0	0	0	0	-9	0.128	-0.96
+Lance Mccullers	HOU	P	AL	2015	21	2	0.03%	0	0	0	0	0	-0.021	0	15.1	0.006	1.57
+Hunter Strickland	SFN	P	NL	2015	26	1	0.02%	0	0	0	0	0	-0.052	-0.1	5	0.005	0.56
+Joe Wieland	LAN	P	NL	2015	25	2	0.03%	0	0	0	0	0	-0.03	-0.1	-1	0.133	-0.11
+Christian Bethancourt	ATL	C	NL	2015	23	160	2.65%	0.2	0.225	0.29	1	1	0	-0.1	-0.1	0.201	0.06
+Jorge Lopez	MIL	P	NL	2015	22	3	0.05%	0	0	0	0	0	-0.024	-0.1	1.9	0.092	0.2
+Casey Kelly	SDN	P	NL	2015	25	3	0.05%	0	0	0	0	0	-0.028	-0.1	0.4	0.087	0.05
+Mike Montgomery	SEA	P	AL	2015	25	3	0.05%	0	0	0	0	0	-0.035	-0.1	3.7	-0.006	0.35
+Keon Broxton	PIT	CF	NL	2015	25	2	0.03%	0	0	0	1	1	-0.055	-0.1	-0.1	0.001	-0.01
+Deolis Guerra	PIT	P	NL	2015	26	1	0.02%	0	0	0	0	0	-0.115	-0.1	-2	-0.002	-0.2
+Tyler Wilson	BAL	P	AL	2015	25	3	0.05%	0	0	0	0	0	-0.04	-0.1	0.2	0.082	0.01
+Carl Edwards Jr	CHN	P	NL	2015	23	1	0.02%	0	0	0	0	0	-0.123	-0.1	0.4	-0.009	0.05
+Elvis Araujo	PHI	P	NL	2015	23	1	0.02%	0	0	0	0	0	-0.124	-0.1	4.7	-0.072	0.54
+Brandon Finnegan	CIN	P	NL	2015	22	6	0.10%	0	0	0	0	0	-0.022	-0.1	0.5	0.098	0.08
+Daniel Coulombe	LAN	P	NL	2015	25	1	0.02%	0	0	0	0	0	-0.133	-0.1	0.5	-0.021	0.04
+Kendry Flores	MIA	P	NL	2015	23	1	0.02%	0	0	0	0	0	-0.135	-0.1	2.2	-0.022	0.23
+Jesus Aguilar	CLE	1B	AL	2015	25	20	0.33%	0.316	0.35	0.368	0	0	-0.007	-0.1	-0.1	0.256	-0.03
+Miguel Socolovich	SLN	P	NL	2015	28	1	0.02%	0	0	0	0	0	-0.141	-0.1	6.2	-0.03	0.7
+Orlando Calixte	KCA	SS	AL	2015	23	3	0.05%	0	0	0	0	0	-0.048	-0.1	-0.1	0.001	-0.01
+Ehire Adrianza	SFN	SS	NL	2015	25	134	2.18%	0.186	0.303	0.265	3	2	-0.001	-0.2	-0.2	0.225	0.11
+Justin Miller	COL	P	NL	2015	28	3	0.05%	0	0	0	0	0	-0.054	-0.2	6.3	0.095	0.67
+Zach Davies	MIL	P	NL	2015	22	14	0.23%	0.077	0.077	0.077	0	0	-0.014	-0.2	0.7	0.107	0.14
+Hector Neris	PHI	P	NL	2015	26	1	0.02%	0	0	0	0	0	-0.21	-0.2	1.1	0.035	0.11
+Aaron Brooks	OAK	P	AL	2015	25	2	0.03%	0	0	0	0	0	-0.107	-0.2	-0.4	0.007	-0.2
+Mitchell Harris	SLN	P	NL	2015	29	1	0.02%	0	0	0	0	0	-0.216	-0.2	-2.6	0.029	-0.32
+Matt Andriese	TBA	P	AL	2015	25	1	0.02%	0	0	0	0	0	-0.223	-0.2	4.7	-0.001	0.44
+Dean Anna	SLN	PH	NL	2015	28	1	0.02%	0	0	0	0	0	-0.228	-0.2	-0.2	-0.001	-0.02
+Ryan Rua	TEX	LF	AL	2015	25	86	1.39%	0.193	0.221	0.398	0	0	-0.003	-0.2	-0.2	0.223	-0.17
+Kyle Waldrop	CIN	PH	NL	2015	23	1	0.02%	0	0	0	0	0	-0.236	-0.2	-0.2	-0.009	-0.03
+Adam Liberatore	LAN	P	NL	2015	28	2	0.03%	0	0	0	0	0	-0.121	-0.2	0.2	-0.008	0.04
+Tyler Wagner	MIL	P	NL	2015	24	3	0.05%	0	0	0	0	0	-0.083	-0.2	0.5	-0.012	0.05
+Austin Adams	CLE	P	AL	2015	28	1	0.02%	0	0	0	0	0	-0.269	-0.3	4.5	-0.28	0.48
+Henry Urrutia	BAL	LF	AL	2015	28	36	0.60%	0.265	0.306	0.382	0	0	-0.008	-0.3	-0.3	0.227	-0.02
+Matt Szczur	CHN	LF	NL	2015	25	80	1.29%	0.222	0.278	0.333	2	0	-0.004	-0.3	-0.3	0.229	-0.09
+Rey Navarro	BAL	2B	AL	2015	25	30	0.50%	0.276	0.276	0.448	0	0	-0.011	-0.3	-0.3	0.249	-0.07
+Luis Severino	NYA	P	AL	2015	21	2	0.03%	0	0	0	0	0	-0.164	-0.3	6.2	-0.016	0.74
+David Goforth	MIL	P	NL	2015	26	4	0.07%	0	0	0	0	0	-0.083	-0.3	1.9	0.098	0.21
+Zach Lee	LAN	P	NL	2015	23	2	0.03%	0	0	0	0	0	-0.177	-0.4	-1	-0.03	-0.12
+Anthony Ranaudo	TEX	P	AL	2015	25	2	0.03%	0	0	0	0	0	-0.184	-0.4	-1.5	-0.021	-0.16
+Blaine Hardy	DET	P	AL	2015	28	1	0.02%	0	0	0	0	0	-0.378	-0.4	10.7	-0.003	1.16
+Francisco Pena	KCA	C	AL	2015	25	7	0.11%	0.143	0.143	0.143	0	0	-0.056	-0.4	-0.4	0.158	-0.04
+Gary Sanchez	NYA	PH	AL	2015	22	2	0.03%	0	0	0	0	0	-0.195	-0.4	-0.4	0.033	-0.04
+Aaron Nola	PHI	P	NL	2015	22	26	0.43%	0.087	0.125	0.087	0	0	-0.015	-0.4	4.2	0.096	0.48
+Rafael Montero	NYN	P	NL	2015	24	2	0.03%	0	0	0	0	0	-0.202	-0.4	1.4	-0.021	0.14
+Robbie Ray	ARI	P	NL	2015	23	36	0.57%	0.097	0.097	0.129	0	0	-0.012	-0.4	18.1	0.107	1.89
+Christian Walker	BAL	PH	AL	2015	24	12	0.20%	0.111	0.333	0.111	0	0	-0.037	-0.4	-0.4	0.208	-0.05
+Elias Diaz	PIT	PH	NL	2015	24	2	0.03%	0	0	0	0	0	-0.23	-0.5	-0.5	-0.003	-0.05
+Archie Bradley	ARI	P	NL	2015	22	14	0.22%	0.143	0.143	0.143	0	1	-0.034	-0.5	-1.3	0.104	-0.21
+Alex Dickerson	SDN	PH	NL	2015	25	8	0.13%	0.25	0.25	0.25	0	0	-0.065	-0.5	-0.5	0.15	-0.05
+Dallas Beeler	CHN	P	NL	2015	26	3	0.05%	0.333	0.333	0.667	0	0	-0.181	-0.5	0.2	0.351	0.02
+Logan Verrett	NYN	P	NL	2015	25	8	0.13%	0	0	0	0	0	-0.073	-0.6	-2.3	0.03	-0.32
+Ryan Strausborger	TEX	LF	AL	2015	27	51	0.82%	0.2	0.24	0.267	2	1	-0.012	-0.6	-0.6	0.208	-0.12
+Jonathan Gray	COL	P	NL	2015	23	13	0.21%	0	0.154	0	0	0	-0.05	-0.7	5.7	0.086	0.53
+Andrew Chafin	ARI	P	NL	2015	25	3	0.05%	0	0	0	0	0	-0.223	-0.7	2	0.014	0.23
+Joe Ross	WAS	P	NL	2015	22	30	0.49%	0.111	0.143	0.111	0	0	-0.022	-0.7	7.6	0.097	0.89
+Tyler Cravy	MIL	P	NL	2015	25	10	0.17%	0	0	0	0	0	-0.07	-0.7	0.4	0.055	-0.01
+Tommy Field	TEX	2B	AL	2015	28	45	0.73%	0.195	0.25	0.366	1	0	-0.016	-0.7	-0.7	0.235	0.02
+Tomas Telis	TEX	C	AL	2015	24	12	0.19%	0.182	0.25	0.182	0	0	-0.059	-0.7	-0.7	0.194	-0.08
+A.j. Cole	WAS	P	NL	2015	23	2	0.03%	0	0	0	0	0	-0.355	-0.7	1.2	-0.178	0.13
+Michael Reed	MIL	RF	NL	2015	22	6	0.10%	0.333	0.333	0.5	0	0	-0.12	-0.7	-0.7	0.304	-0.06
+Cody Anderson	CLE	P	AL	2015	24	3	0.05%	0	0	0	0	0	-0.242	-0.7	3.7	-0.001	0.54
+Steven Moya	DET	RF	AL	2015	23	25	0.41%	0.182	0.28	0.273	0	0	-0.03	-0.7	-0.7	0.199	-0.07
+Ed Easley	SLN	C	NL	2015	29	7	0.11%	0	0	0	0	0	-0.112	-0.8	-0.8	0.116	-0.09
+Jonathan Diaz	TOR	SS	AL	2015	30	16	0.26%	0.154	0.267	0.154	0	0	-0.05	-0.8	-0.8	0.183	-0.09
+Max Kepler	MIN	RF	AL	2015	22	7	0.12%	0.143	0.143	0.143	0	0	-0.114	-0.8	-0.8	0.114	-0.08
+Ariel Pena	MIL	P	NL	2015	26	7	0.12%	0	0	0	0	0	-0.119	-0.8	3.1	-0.006	0.29
+Andrew Heaney	ANA	P	AL	2015	24	6	0.10%	0	0	0	0	0	-0.14	-0.8	11.8	-0.013	1.23
+Carlos Frias	LAN	P	NL	2015	25	24	0.39%	0.048	0.13	0.048	0	0	-0.036	-0.9	-1.7	0.087	-0.25
+Tyler Holt	CIN	CF	NL	2015	26	13	0.21%	0.091	0.231	0.091	1	0	-0.071	-0.9	-0.9	0.148	-0.04
+Eduardo Rodriguez	BOS	P	AL	2015	22	3	0.05%	0	0	0	0	0	-0.308	-0.9	19.1	0.079	2.13
+Ian Thomas	LAN	P	NL	2015	28	4	0.07%	0	0.25	0	0	0	-0.251	-1	1.1	0.001	0.11
+Ryan Lollis	SFN	LF	NL	2015	28	13	0.21%	0.167	0.231	0.167	1	0	-0.078	-1	-1	0.163	-0.12
+Nevin Ashley	MIL	C	NL	2015	30	21	0.35%	0.1	0.143	0.15	0	0	-0.054	-1.1	-1.1	0.154	-0.11
+Oscar Hernandez	ARI	C	NL	2015	21	36	0.57%	0.161	0.257	0.194	0	0	-0.032	-1.2	-1.2	0.18	-0.12
+Ryan Weber	ATL	P	NL	2015	24	10	0.17%	0	0	0	0	0	-0.118	-1.2	-2.5	-0.016	-0.27
+Cristhian Adames	COL	SS	NL	2015	23	58	0.96%	0.245	0.298	0.302	0	1	-0.021	-1.2	-1.2	0.215	-0.16
+John Lamb	CIN	P	NL	2015	24	16	0.26%	0.063	0.063	0.125	0	0	-0.076	-1.2	-2.3	0.067	-0.31
+Xavier Scruggs	SLN	1B	NL	2015	27	43	0.70%	0.262	0.279	0.31	1	0	-0.03	-1.3	-1.3	0.213	-0.06
+Keyvius Sampson	CIN	P	NL	2015	24	17	0.27%	0	0	0	0	0	-0.077	-1.3	-2.8	0.049	-0.37
+Joey Terdoslavich	ATL	PH	NL	2015	26	59	0.98%	0.214	0.254	0.375	0	0	-0.022	-1.3	-1.3	0.227	-0.12
+Nick Noonan	SFN	SS	NL	2015	26	24	0.39%	0.091	0.167	0.273	0	0	-0.061	-1.5	-1.5	0.153	-0.19
+Raisel Iglesias	CIN	P	NL	2015	25	31	0.50%	0.067	0.067	0.133	0	0	-0.049	-1.5	4.8	0.057	0.63
+Hernan Perez	MIL	3B	NL	2015	24	238	3.95%	0.27	0.281	0.365	4	1	-0.007	-1.7	-1.7	0.227	-0.26
+Wilmer Difo	WAS	PH	NL	2015	23	11	0.18%	0.182	0.182	0.182	0	0	-0.158	-1.7	-1.7	0.141	-0.19
+Kaleb Cowart	ANA	3B	AL	2015	23	52	0.87%	0.174	0.255	0.283	1	1	-0.034	-1.7	-1.7	0.195	-0.06
+Daniel Muno	NYN	PH	NL	2015	26	32	0.52%	0.148	0.258	0.185	1	0	-0.057	-1.8	-1.8	0.172	-0.18
+Todd Cunningham	ATL	LF	NL	2015	26	93	1.54%	0.221	0.28	0.267	2	1	-0.02	-1.8	-1.8	0.214	-0.15
+Dixon Machado	DET	SS	AL	2015	23	78	1.27%	0.235	0.307	0.279	1	0	-0.025	-1.9	-1.9	0.208	-0.26
+Rocky Gale	SDN	C	NL	2015	27	10	0.17%	0.1	0.1	0.1	0	0	-0.193	-1.9	-1.9	0.038	-0.21
+Maxwell Muncy	OAK	1B	AL	2015	24	112	1.81%	0.206	0.268	0.392	0	0	-0.018	-2	-2	0.245	-0.15
+Austin Hedges	SDN	C	NL	2015	22	152	2.53%	0.168	0.215	0.248	0	0	-0.013	-2	-2	0.191	-0.25
+Mike Foltynewicz	ATL	P	NL	2015	23	30	0.50%	0.071	0.069	0.107	0	0	-0.069	-2.1	-3.6	0.066	-0.54
+Tomas Telis	MIA	PH	NL	2015	24	29	0.48%	0.148	0.207	0.148	0	0	-0.074	-2.1	-2.1	0.171	-0.24
+Dusty Coleman	KCA	3B	AL	2015	28	5	0.08%	0	0	0	0	0	-0.435	-2.2	-2.2	-0.008	-0.24
+Ryan Jackson	ANA	2B	AL	2015	27	14	0.23%	0	0.1	0	0	0	-0.162	-2.3	-2.3	0.097	-0.26
+Luke Maile	TBA	C	AL	2015	24	35	0.58%	0.171	0.171	0.257	0	0	-0.065	-2.3	-2.3	0.128	-0.24
+Allan Dykstra	TBA	1B	AL	2015	28	38	0.63%	0.129	0.289	0.226	0	0	-0.063	-2.4	-2.4	0.197	-0.3
+Hector Gomez	MIL	2B	NL	2015	27	134	2.22%	0.181	0.212	0.323	0	0	-0.018	-2.4	-2.4	0.213	-0.14
+Rafael Ynoa	COL	PH	NL	2015	27	131	2.16%	0.26	0.277	0.339	1	0	-0.019	-2.4	-2.4	0.21	-0.27
+Carlos Sanchez	CHA	2B	AL	2015	23	420	6.92%	0.224	0.268	0.326	2	2	-0.006	-2.5	-2.5	0.218	-0.78
+Mac Williamson	SFN	LF	NL	2015	24	34	0.55%	0.219	0.235	0.281	0	0	-0.073	-2.5	-2.5	0.188	-0.25
+Carson Blair	OAK	C	AL	2015	25	35	0.57%	0.129	0.229	0.226	0	0	-0.072	-2.5	-2.5	0.163	-0.29
+Justin Nicolino	MIA	P	NL	2015	23	27	0.45%	0.04	0.04	0.04	0	0	-0.094	-2.5	-8.9	0.039	-0.82
+Yadiel Rivera	MIL	2B	NL	2015	23	15	0.25%	0.071	0.071	0.071	0	0	-0.17	-2.6	-2.6	0.073	-0.25
+Eddie Butler	COL	P	NL	2015	24	24	0.40%	0.043	0.043	0.043	0	0	-0.107	-2.6	-8.4	0.036	-0.89
+Ryan Lamarre	CIN	CF	NL	2015	26	26	0.42%	0.08	0.08	0.08	0	0	-0.106	-2.8	-2.8	0.069	-0.29
+Daniel Dorn	ARI	PH	NL	2015	30	32	0.51%	0.167	0.219	0.2	0	0	-0.089	-2.9	-2.9	0.155	-0.34
+Juan Centeno	MIL	C	NL	2015	25	23	0.38%	0.048	0.13	0.095	0	0	-0.127	-2.9	-2.9	0.107	-0.32
+Tyler Saladino	CHA	3B	AL	2015	25	254	4.18%	0.225	0.267	0.335	8	2	-0.012	-3.2	-3.2	0.21	0.15
+Rusney Castillo	BOS	RF	AL	2015	27	289	4.63%	0.253	0.288	0.359	4	5	-0.011	-3.2	-3.2	0.213	0.12
+Tyler Holt	CLE	CF	AL	2015	26	21	0.34%	0.1	0.143	0.1	0	0	-0.152	-3.2	-3.2	0.104	-0.35
+Steven Baron	SEA	C	AL	2015	24	11	0.18%	0	0	0	0	0	-0.292	-3.2	-3.2	-0.067	-0.35
+Hanser Alberto	TEX	2B	AL	2015	22	104	1.68%	0.222	0.238	0.263	1	0	-0.031	-3.2	-3.2	0.197	-0.12
+Cody Decker	SDN	PH	NL	2015	28	12	0.20%	0	0	0	0	0	-0.273	-3.3	-3.3	0.01	-0.34
+Kyle Kubitza	ANA	3B	AL	2015	24	39	0.65%	0.194	0.256	0.194	0	0	-0.085	-3.3	-3.3	0.166	-0.41
+Andrew Lambo	PIT	PH	NL	2015	26	27	0.43%	0.04	0.111	0.08	0	0	-0.131	-3.5	-3.5	0.083	-0.41
+Brandon Drury	ARI	3B	NL	2015	22	59	0.94%	0.214	0.254	0.375	0	0	-0.061	-3.6	-3.6	0.205	-0.45
+Micah Johnson	CHA	2B	AL	2015	24	114	1.88%	0.23	0.306	0.27	3	2	-0.033	-3.7	-3.7	0.222	-0.48
+Matt Mcbride	COL	PH	NL	2015	30	43	0.71%	0.167	0.186	0.167	0	0	-0.091	-3.9	-3.9	0.133	-0.45
+Sandy Leon	BOS	C	AL	2015	26	128	2.05%	0.184	0.238	0.202	0	1	-0.031	-3.9	-3.9	0.17	-0.32
+Jose Pirela	NYA	2B	AL	2015	25	78	1.24%	0.23	0.247	0.311	1	0	-0.051	-4	-4	0.191	-0.59
+Luis Sardinas	MIL	2B	NL	2015	22	105	1.74%	0.196	0.24	0.216	0	0	-0.038	-4	-4	0.188	-0.33
+Jesus Sucre	SEA	C	AL	2015	27	142	2.32%	0.157	0.195	0.228	0	0	-0.032	-4.5	-5.5	0.165	-0.59
+Jhonatan Solano	MIA	C	NL	2015	29	21	0.35%	0.05	0.095	0.1	0	0	-0.216	-4.5	-4.5	0.066	-0.48
+Giovanny Urshela	CLE	3B	AL	2015	23	288	4.71%	0.225	0.279	0.33	0	1	-0.017	-4.8	-4.8	0.217	0.3
+Johnny Monell	NYN	PH	NL	2015	29	52	0.85%	0.167	0.231	0.208	0	0	-0.096	-5	-5	0.139	-0.56
+John Hicks	SEA	C	AL	2015	25	34	0.55%	0.063	0.091	0.094	1	1	-0.156	-5.3	-5.3	0.063	-0.58
+Hernan Perez	DET	3B	AL	2015	24	34	0.55%	0.061	0.088	0.061	1	0	-0.197	-6.7	-6.7	0.039	-0.75
+Kyle Parker	COL	LF	NL	2015	25	112	1.84%	0.179	0.223	0.311	1	0	-0.066	-7.4	-7.4	0.172	-0.88
+Taylor Featherston	ANA	3B	AL	2015	25	169	2.82%	0.162	0.212	0.247	4	2	-0.047	-7.9	-7.9	0.177	-0.8
+
+
