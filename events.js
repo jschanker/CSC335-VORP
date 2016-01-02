@@ -1,3 +1,4 @@
+var computeButton = document.getElementById("computeButton");
 var createPlayerObject = function(rawData){
     //Seperate lines into own array
     lineArr=rawData.split(/\r\n|\r|\n/);//Each player & their info==1 value in array
@@ -108,7 +109,7 @@ var maxVorpFunc = function(positionsObject,budget){
     
     
 //Event handler for button
-var computeButton = document.getElementById("computeButton");
+
 computeButton.addEventListener("click", function() {
     	var rawData = (document.getElementById("player-data").value);
 	var theBudget=Number(prompt("Please enter a budget amount",3000000));
