@@ -112,11 +112,22 @@ var maxVorpFunc = function(positionsObject,budget){
 
 computeButton.addEventListener("click", function() {
     	var rawData = (document.getElementById("player-data").value);
-	var theBudget=Number(prompt("Please enter a budget amount",3000000));
+	
 	
 	var objectOfPlayers = createPlayerObject(rawData);
 	var objectOfPositions = createPositionObject(objectOfPlayers);
-	var answer = maxVorpFunc(objectOfPositions,theBudget);
+	var test_object = {
+        "3B": {
+            "Matt Duffy": {"vorp": 3, "salary": 400},
+            "Jake Lamb": {"vorp": 10, "salary": 200}
+        },
+        "CF": {
+            "Joc Pederson": {"vorp": 5, "salary": 600},
+            "Odubel Herrera": {"vorp": -1, "salary": 200}
+        }
+    	};
+	var theBudget=Number(prompt("Please enter a budget amount",3000000));
+	var answer = maxVorpFunc(test_object,theBudget);
 	
 	alert(JSON.stringify(answer));
 });
