@@ -1,39 +1,45 @@
 var computeButton = document.getElementById("computeButton");
-var createPlayerObject = function(rawData){
-    //Seperate lines into own array
-    lineArr=rawData.split(/\r\n|\r|\n/);//Each player & their info==1 value in array
-    players={};
-    playerName=null;
 
-    //Seperate info for each player into arry
-    for(var i=0;i<lineArr.length;i++){
-        var playerInfoArr=lineArr[i].split("\t");
+// create player object function: Takes data and puts into objects with the name of player as key
+var createPlayersObject = function(rawData){
     
+    var splitData = rawData.split(/=+/);
+    var vorpData = splitData[0].split('\n');
+    var salaryData = splitData[1];
     
-        //create object with key of player name
-        playerName=playerInfoArr[0];
-        players[playerName]={};
-    
-        //set position attribute in player's object
-        players[playerName].position = playerInfoArr[2];
-    
-        //set vorp attribute in player's object
-        players[playerName].vorp=Number(playerInfoArr[13]);
+    var playersObject = {};
+
+    for(var i = 0; i < vorpData.length;i++){
+        var playerName = vorpData[i].split('\t');
+        var playerIndexInSalaryData = salaryData.indexOf(playerName);
+        var playerSalary;
         
-                
-        if(playerInfoArr[3].includes("$")){
-            //Wow. such money. much tedious. very spook. wow
-            //convert salary from string to number
-            var removeSign = playerInfoArr[3].split(",").join('');
-            var removeCommas=removeSign.split("$").join('');
-            var salAsNum=Number(removeCommas);
-            players[playerName].salary=salAsNum;
-            //Thnk u ( ͡° ͜ʖ ͡ °)
+        //check if salary is listed
+        if (playerIndexInSalaryData === -1){
+            playerSalary = 'null';
+        } 
+        else {
+            //set playerName as key in playerObject
+            playersObject[playerName] = {};
+            //set vorp for playerObject[playerName]
+            playersObject[playerName].vorp = parseFloat(playerName[16])
+            
+            //remove '$' and ','
+            var dollarSignIndex = salaryData.indexOf("$", playerIndexInSalaryData);
+            playerSalary = salaryData.substring(dollarSignIndex + 1, salaryData.indexOf('\t', dollarSignIndex));
+            playerSalary = parseInt(playerSalary.replace(/,/g,''));
+            
+            //set player salary
+            playersObject[playerName].salary = playerSalary;
+
+
         }
-    }return players;
+    }
+    return playersObject;
 };
+
     
-var createPositionObject = function(players){
+var createPositionObject = function(playersObject){
     
     var positionsObject = {};//will have attribute for each position (len 9)
     
