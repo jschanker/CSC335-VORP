@@ -1,0 +1,11 @@
+Here are the current problems we need to figure out (in no particular order):
+
+1. How to parse both .csv baseball files correctly. While actually parsing the info may be easy enough, we have to deal with
+    the fact that the number of players in both files are vastly different (428 vs 867).
+2. Determine an algorithm that will always get the right answer. This is a variation of the Knapsack problem (knapsack size is
+    replaced with money, items replaced with players, item weights replaced with salaries, and item values replaced with VORPs).
+    It'll be lots of fun to solve this dynamic programming problem. Here's a powerpoint regarding the problem that may/may not
+    help. https://drive.google.com/a/lions.molloy.edu/file/d/0B5DGvLP6lAUtVWNJeC1aYXhuUDg/view?usp=sharing
+
+Here is a pastebin that contains the information from both websites. http://pastebin.com/fj4XBqPr
+Hint: Copying directly from the Raw Paste Data at the bottom is easier.
