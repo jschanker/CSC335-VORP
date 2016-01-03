@@ -11,27 +11,28 @@ var createPlayersObject = function(rawData){
 
     for(var i = 0; i < vorpData.length;i++){
         var playerName = vorpData[i].split('\t');
-        var playerIndexInSalaryData = salaryData.indexOf(playerName);
-        var playerSalary;
+        var playerIndexInSalaryData = salaryData.indexOf(playerName[1]);
+        var playerSalary = "";
         
         //check if salary is listed
         if (playerIndexInSalaryData === -1){
             playerSalary = 'null';
         } 
         else {
-            //set playerName as key in playerObject
-            playersObject[playerName] = {};
-            //set vorp for playerObject[playerName]
-            playersObject[playerName].vorp = parseFloat(playerName[16])
             
             //remove '$' and ','
             var dollarSignIndex = salaryData.indexOf("$", playerIndexInSalaryData);
             playerSalary = salaryData.substring(dollarSignIndex + 1, salaryData.indexOf('\t', dollarSignIndex));
             playerSalary = parseInt(playerSalary.replace(/,/g,''));
             
-            //set player salary
-            playersObject[playerName].salary = playerSalary;
+        
 
+             playersObject[playerName[1]] =
+            {
+                vorp: parseFloat(playerName[16]),
+                position: playerName[3],
+                salary: playerSalary
+            };
 
         }
     }
@@ -44,9 +45,9 @@ var createPositionObject = function(playersObject){
     var positionsObject = {};//will have attribute for each position (len 9)
     
     //iterate over each player in positionsObject
-    for(var name in positionsObject){
+    for(var name in playersObject){
         
-        var playerPosition = positionsObject[name].position;
+        var playerPosition = playersObject[name].position;
         
         //check to see if player's position is an attribute in positionsObject
         if(!(playerPosition in positionsObject)){
@@ -57,8 +58,8 @@ var createPositionObject = function(playersObject){
         
         //place player in proper position object
         positionsObject[playerPosition][name] = {
-            salary: positionsObject[name].salary,
-            vorp: positionsObject[name].vorp
+            salary: playersObject[name].salary,
+            vorp: playersObject[name].vorp
         };
         
     }
@@ -113,27 +114,21 @@ var maxVorpFunc = function(positionsObject,budget){
     }return results;
 };
     
+
     
 //Event handler for button
 
 computeButton.addEventListener("click", function() {
-    	var rawData = (document.getElementById("player-data").value);
-	
-	
-	var objectOfPlayers = createPlayerObject(rawData);
+    //get data
+    var rawData = (document.getElementById("player-data").value);
+	var objectOfPlayers = createPlayersObject(rawData);
 	var objectOfPositions = createPositionObject(objectOfPlayers);
-	var test_object = {
-        "3B": {
-            "Matt Duffy": {"vorp": 3, "salary": 400},
-            "Jake Lamb": {"vorp": 10, "salary": 200}
-        },
-        "CF": {
-            "Joc Pederson": {"vorp": 5, "salary": 600},
-            "Odubel Herrera": {"vorp": -1, "salary": 200}
-        }
-    	};
+    
+
 	var theBudget=Number(prompt("Please enter a budget amount",3000000));
-	var answer = maxVorpFunc(test_object,theBudget);
+	var answer = maxVorpFunc(objectOfPositions,theBudget);
+	alert(JSON.stringify(answer, null, 4));
 	
-	alert(JSON.stringify(answer));
 });
+
+
